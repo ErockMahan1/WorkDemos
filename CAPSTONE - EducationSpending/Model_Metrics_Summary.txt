@@ -1,0 +1,90 @@
+Data Science Career Track
+Model Metrics For Capstone 
+Academic Success Related to Spending
+
+Model Metrics Summary: Graduation Rate Forecasting & Spending Analysis
+=====================================================================
+
+Models Used
+----------
+- Random Forest Regressor (or insert specific model used), Linear Regression, ARIMA, ETS, Tableau Forecast
+- Target Variables: Graduation Rate (%), Spending
+- Features: State, Year, Education Spending, Graduation Rate
+
+
+Prediction Performance
+----------------------
+**Measuring spending against graduation rate**
+Pearson correlation coefficient: 0.02823
+Pearson r: 0.0282320519487733
+p-value: (rounded to 5 decimal places)  (0.00005)
+
+
+**Measuring spending against ACT score**
+ACT Score = 0.0002 * Spending + 18.1713
+R^2: 0.3052
+
+
+**Measuring spending against old SAT scores**
+SATo Score = -0.0041 * Spending + 856.5526
+R^2: 0.0016
+
+
+**Measuring spending against new SAT scores **
+SATn Score = -0.0040 * Spending + 813.6533
+R^2: 0.0048
+
+
+
+Correlation Analysis
+--------------------
+- Spending vs. Graduation Rate:
+Increased spending does NOT consistently lead to increased graduation rates, nor does reduced spending always correlate with decreased performance.
+
+
+-Spending vs. ACT Score:
+There is a moderate positive relationship between spending and ACT scores. About 30.5% of the variance in ACT scores can be explained by spending, suggesting some practical association.
+
+
+-Spending vs. old SAT Score:
+There is virtually no relationship between spending and old SAT scores. Spending explains less than 0.2% of the variance in scores.
+
+
+-Spending vs new SAT Score:
+There is no meaningful relationship between spending and new SAT scores. Spending explains only 0.5% of the variance in scores.
+
+
+
+Notable Observations
+--------------------
+- Vermont had one of the highest increases in spending but experienced the largest drop in graduation rate.
+- Wyoming had the biggest spending cut but still saw a modest increase in graduation rate.
+- Some states saw improved graduation outcomes despite minimal spending changes, suggesting other factors are responsible for these changes
+- Scholastic Aptitude Tests (SATs) have shown progressively lower results despite increases in spending in secondary education
+- Lowest and Highest states in terms of predicted graduation rates score almost identically on nationwide standardized tests
+
+
+Visualization Summary
+---------------------
+- Line plots showed trends in spending and graduation rates from 2011–2018.
+- Percent change plots highlighted volatility in both spending and performance.
+- Color-coded bar charts visualized:
+  - Spending change (green = increase, red = decrease)
+  - Graduation rate change (position on axis = change; color = spending context)
+- Plot of Standardized Tests show downward trend
+
+
+Forecasting
+-----------
+- Graduation rates were predicted for years beyond the dataset (e.g., 2019–2021).
+- Visual comparison of actual vs. predicted performance for individual states showed:
+  - Reasonably close alignment for many states
+  - Some divergence where model underestimated or overestimated the true values
+- SAT scores were predicted for the next 10 years, showing an increasing decline in average score rate
+
+
+Next Steps
+----------
+- Incorporate additional features (economic indicators, alternative secondary education, cultural attitudes toward education)
+- Compare state-specific models of secondary education spending
+- Evaluate spending and academic achievement at 8th-Grade level

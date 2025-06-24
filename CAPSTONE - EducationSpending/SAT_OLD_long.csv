@@ -1,0 +1,817 @@
+State,Year,Subject,Score
+Alabama,2012,Total,1608
+Alaska,2012,Total,1495
+Arizona,2012,Total,1551
+Arkansas,2012,Total,1697
+California,2012,Total,1505
+Colorado,2012,Total,1721
+Connecticut,2012,Total,1532
+Delaware,2012,Total,1351
+District of Columbia,2012,Total,1400
+Florida,2012,Total,1457
+Georgia,2012,Total,1452
+Hawaii,2012,Total,1453
+Idaho,2012,Total,1364
+Illinois,2012,Total,1807
+Indiana,2012,Total,1470
+Iowa,2012,Total,1763
+Kansas,2012,Total,1752
+Kentucky,2012,Total,1741
+Louisiana,2012,Total,1655
+Maine,2012,Total,1380
+Maryland,2012,Total,1483
+Massachusetts,2012,Total,1553
+Michigan,2012,Total,1782
+Minnesota,2012,Total,1780
+Mississippi,2012,Total,1673
+Missouri,2012,Total,1773
+Montana,2012,Total,1595
+Nebraska,2012,Total,1734
+Nevada,2012,Total,1454
+New Hampshire,2012,Total,1567
+New Jersey,2012,Total,1521
+New Mexico,2012,Total,1626
+New York,2012,Total,1463
+North Carolina,2012,Total,1479
+North Dakota,2012,Total,1799
+Ohio,2012,Total,1635
+Oklahoma,2012,Total,1689
+Oregon,2012,Total,1539
+Pennsylvania,2012,Total,1480
+Rhode Island,2012,Total,1468
+South Carolina,2012,Total,1436
+South Dakota,2012,Total,1760
+Tennessee,2012,Total,1709
+Texas,2012,Total,1437
+Utah,2012,Total,1684
+Vermont,2012,Total,1540
+Virginia,2012,Total,1528
+Washington,2012,Total,1537
+West Virginia,2012,Total,1513
+Wisconsin,2012,Total,1771
+Wyoming,2012,Total,1757
+Alabama,2012,Reading,544
+Alaska,2012,Reading,508
+Arizona,2012,Reading,521
+Arkansas,2012,Reading,572
+California,2012,Reading,498
+Colorado,2012,Reading,578
+Connecticut,2012,Reading,508
+Delaware,2012,Reading,451
+District of Columbia,2012,Reading,473
+Florida,2012,Reading,492
+Georgia,2012,Reading,490
+Hawaii,2012,Reading,481
+Idaho,2012,Reading,454
+Illinois,2012,Reading,600
+Indiana,2012,Reading,493
+Iowa,2012,Reading,592
+Kansas,2012,Reading,589
+Kentucky,2012,Reading,585
+Louisiana,2012,Reading,556
+Maine,2012,Reading,462
+Maryland,2012,Reading,497
+Massachusetts,2012,Reading,515
+Michigan,2012,Reading,590
+Minnesota,2012,Reading,595
+Mississippi,2012,Reading,568
+Missouri,2012,Reading,596
+Montana,2012,Reading,539
+Nebraska,2012,Reading,584
+Nevada,2012,Reading,492
+New Hampshire,2012,Reading,524
+New Jersey,2012,Reading,499
+New Mexico,2012,Reading,550
+New York,2012,Reading,485
+North Carolina,2012,Reading,495
+North Dakota,2012,Reading,609
+Ohio,2012,Reading,548
+Oklahoma,2012,Reading,571
+Oregon,2012,Reading,520
+Pennsylvania,2012,Reading,494
+Rhode Island,2012,Reading,491
+South Carolina,2012,Reading,484
+South Dakota,2012,Reading,592
+Tennessee,2012,Reading,574
+Texas,2012,Reading,477
+Utah,2012,Reading,569
+Vermont,2012,Reading,516
+Virginia,2012,Reading,516
+Washington,2012,Reading,515
+West Virginia,2012,Reading,514
+Wisconsin,2012,Reading,591
+Wyoming,2012,Reading,581
+Alabama,2012,Mathematics,534
+Alaska,2012,Mathematics,505
+Arizona,2012,Mathematics,528
+Arkansas,2012,Mathematics,570
+California,2012,Mathematics,512
+Colorado,2012,Mathematics,581
+Connecticut,2012,Mathematics,512
+Delaware,2012,Mathematics,457
+District of Columbia,2012,Mathematics,466
+Florida,2012,Mathematics,490
+Georgia,2012,Mathematics,487
+Hawaii,2012,Mathematics,504
+Idaho,2012,Mathematics,459
+Illinois,2012,Mathematics,617
+Indiana,2012,Mathematics,500
+Iowa,2012,Mathematics,601
+Kansas,2012,Mathematics,595
+Kentucky,2012,Mathematics,584
+Louisiana,2012,Mathematics,553
+Maine,2012,Mathematics,467
+Maryland,2012,Mathematics,500
+Massachusetts,2012,Mathematics,529
+Michigan,2012,Mathematics,610
+Minnesota,2012,Mathematics,608
+Mississippi,2012,Mathematics,547
+Missouri,2012,Mathematics,595
+Montana,2012,Mathematics,540
+Nebraska,2012,Mathematics,583
+Nevada,2012,Mathematics,494
+New Hampshire,2012,Mathematics,528
+New Jersey,2012,Mathematics,522
+New Mexico,2012,Mathematics,545
+New York,2012,Mathematics,501
+North Carolina,2012,Mathematics,506
+North Dakota,2012,Mathematics,609
+Ohio,2012,Mathematics,556
+Oklahoma,2012,Mathematics,569
+Oregon,2012,Mathematics,520
+Pennsylvania,2012,Mathematics,504
+Rhode Island,2012,Mathematics,490
+South Carolina,2012,Mathematics,487
+South Dakota,2012,Mathematics,601
+Tennessee,2012,Mathematics,569
+Texas,2012,Mathematics,499
+Utah,2012,Mathematics,566
+Vermont,2012,Mathematics,519
+Virginia,2012,Mathematics,514
+Washington,2012,Mathematics,523
+West Virginia,2012,Mathematics,501
+Wisconsin,2012,Mathematics,604
+Wyoming,2012,Mathematics,588
+Alabama,2012,Writing,530
+Alaska,2012,Writing,482
+Arizona,2012,Writing,502
+Arkansas,2012,Writing,555
+California,2012,Writing,495
+Colorado,2012,Writing,562
+Connecticut,2012,Writing,512
+Delaware,2012,Writing,443
+District of Columbia,2012,Writing,461
+Florida,2012,Writing,475
+Georgia,2012,Writing,475
+Hawaii,2012,Writing,468
+Idaho,2012,Writing,451
+Illinois,2012,Writing,590
+Indiana,2012,Writing,477
+Iowa,2012,Writing,570
+Kansas,2012,Writing,568
+Kentucky,2012,Writing,572
+Louisiana,2012,Writing,546
+Maine,2012,Writing,451
+Maryland,2012,Writing,486
+Massachusetts,2012,Writing,509
+Michigan,2012,Writing,582
+Minnesota,2012,Writing,577
+Mississippi,2012,Writing,558
+Missouri,2012,Writing,582
+Montana,2012,Writing,516
+Nebraska,2012,Writing,567
+Nevada,2012,Writing,468
+New Hampshire,2012,Writing,515
+New Jersey,2012,Writing,500
+New Mexico,2012,Writing,531
+New York,2012,Writing,477
+North Carolina,2012,Writing,478
+North Dakota,2012,Writing,581
+Ohio,2012,Writing,531
+Oklahoma,2012,Writing,549
+Oregon,2012,Writing,499
+Pennsylvania,2012,Writing,482
+Rhode Island,2012,Writing,487
+South Carolina,2012,Writing,465
+South Dakota,2012,Writing,567
+Tennessee,2012,Writing,566
+Texas,2012,Writing,461
+Utah,2012,Writing,549
+Vermont,2012,Writing,505
+Virginia,2012,Writing,498
+Washington,2012,Writing,499
+West Virginia,2012,Writing,498
+Wisconsin,2012,Writing,576
+Wyoming,2012,Writing,588
+Alabama,2013,Total,1617
+Alaska,2013,Total,1485
+Arizona,2013,Total,1547
+Arkansas,2013,Total,1698
+California,2013,Total,1504
+Colorado,2013,Total,1735
+Connecticut,2013,Total,1525
+Delaware,2013,Total,1359
+District of Columbia,2013,Total,1309
+Florida,2013,Total,1448
+Georgia,2013,Total,1445
+Hawaii,2013,Total,1460
+Idaho,2013,Total,1364
+Illinois,2013,Total,1802
+Indiana,2013,Total,1474
+Iowa,2013,Total,1794
+Kansas,2013,Total,1753
+Kentucky,2013,Total,1746
+Louisiana,2013,Total,1667
+Maine,2013,Total,1387
+Maryland,2013,Total,1468
+Massachusetts,2013,Total,1556
+Michigan,2013,Total,1784
+Minnesota,2013,Total,1786
+Mississippi,2013,Total,1714
+Missouri,2013,Total,1771
+Montana,2013,Total,1637
+Nebraska,2013,Total,1745
+Nevada,2013,Total,1458
+New Hampshire,2013,Total,1566
+New Jersey,2013,Total,1526
+New Mexico,2013,Total,1617
+New York,2013,Total,1468
+North Carolina,2013,Total,1483
+North Dakota,2013,Total,1816
+Ohio,2013,Total,1652
+Oklahoma,2013,Total,1697
+Oregon,2013,Total,1544
+Pennsylvania,2013,Total,1481
+Rhode Island,2013,Total,1480
+South Carolina,2013,Total,1443
+South Dakota,2013,Total,1792
+Tennessee,2013,Total,1714
+Texas,2013,Total,1432
+Utah,2013,Total,1690
+Vermont,2013,Total,1554
+Virginia,2013,Total,1530
+Washington,2013,Total,1519
+West Virginia,2013,Total,1522
+Wisconsin,2013,Total,1782
+Wyoming,2013,Total,1762
+Alabama,2013,Reading,547
+Alaska,2013,Reading,507
+Arizona,2013,Reading,522
+Arkansas,2013,Reading,573
+California,2013,Reading,498
+Colorado,2013,Reading,582
+Connecticut,2013,Reading,507
+Delaware,2013,Reading,456
+District of Columbia,2013,Reading,440
+Florida,2013,Reading,491
+Georgia,2013,Reading,488
+Hawaii,2013,Reading,484
+Idaho,2013,Reading,458
+Illinois,2013,Reading,599
+Indiana,2013,Reading,497
+Iowa,2013,Reading,605
+Kansas,2013,Reading,591
+Kentucky,2013,Reading,589
+Louisiana,2013,Reading,561
+Maine,2013,Reading,467
+Maryland,2013,Reading,492
+Massachusetts,2013,Reading,516
+Michigan,2013,Reading,593
+Minnesota,2013,Reading,598
+Mississippi,2013,Reading,583
+Missouri,2013,Reading,595
+Montana,2013,Reading,555
+Nebraska,2013,Reading,589
+Nevada,2013,Reading,495
+New Hampshire,2013,Reading,524
+New Jersey,2013,Reading,501
+New Mexico,2013,Reading,548
+New York,2013,Reading,488
+North Carolina,2013,Reading,499
+North Dakota,2013,Reading,612
+Ohio,2013,Reading,555
+Oklahoma,2013,Reading,576
+Oregon,2013,Reading,523
+Pennsylvania,2013,Reading,497
+Rhode Island,2013,Reading,497
+South Carolina,2013,Reading,488
+South Dakota,2013,Reading,604
+Tennessee,2013,Reading,578
+Texas,2013,Reading,476
+Utah,2013,Reading,571
+Vermont,2013,Reading,522
+Virginia,2013,Reading,518
+Washington,2013,Reading,510
+West Virginia,2013,Reading,517
+Wisconsin,2013,Reading,596
+Wyoming,2013,Reading,590
+Alabama,2013,Mathematics,538
+Alaska,2013,Mathematics,503
+Arizona,2013,Mathematics,525
+Arkansas,2013,Mathematics,571
+California,2013,Mathematics,510
+Colorado,2013,Mathematics,586
+Connecticut,2013,Mathematics,510
+Delaware,2013,Mathematics,459
+District of Columbia,2013,Mathematics,438
+Florida,2013,Mathematics,485
+Georgia,2013,Mathematics,485
+Hawaii,2013,Mathematics,504
+Idaho,2013,Mathematics,456
+Illinois,2013,Mathematics,616
+Indiana,2013,Mathematics,500
+Iowa,2013,Mathematics,611
+Kansas,2013,Mathematics,596
+Kentucky,2013,Mathematics,585
+Louisiana,2013,Mathematics,556
+Maine,2013,Mathematics,471
+Maryland,2013,Mathematics,495
+Massachusetts,2013,Mathematics,531
+Michigan,2013,Mathematics,610
+Minnesota,2013,Mathematics,610
+Mississippi,2013,Mathematics,566
+Missouri,2013,Mathematics,597
+Montana,2013,Mathematics,552
+Nebraska,2013,Mathematics,587
+Nevada,2013,Mathematics,494
+New Hampshire,2013,Mathematics,530
+New Jersey,2013,Mathematics,523
+New Mexico,2013,Mathematics,543
+New York,2013,Mathematics,502
+North Carolina,2013,Mathematics,507
+North Dakota,2013,Mathematics,620
+Ohio,2013,Mathematics,562
+Oklahoma,2013,Mathematics,571
+Oregon,2013,Mathematics,522
+Pennsylvania,2013,Mathematics,504
+Rhode Island,2013,Mathematics,496
+South Carolina,2013,Mathematics,490
+South Dakota,2013,Mathematics,609
+Tennessee,2013,Mathematics,570
+Texas,2013,Mathematics,495
+Utah,2013,Mathematics,568
+Vermont,2013,Mathematics,525
+Virginia,2013,Mathematics,515
+Washington,2013,Mathematics,518
+West Virginia,2013,Mathematics,505
+Wisconsin,2013,Mathematics,608
+Wyoming,2013,Mathematics,599
+Alabama,2013,Writing,532
+Alaska,2013,Writing,475
+Arizona,2013,Writing,500
+Arkansas,2013,Writing,554
+California,2013,Writing,496
+Colorado,2013,Writing,567
+Connecticut,2013,Writing,508
+Delaware,2013,Writing,444
+District of Columbia,2013,Writing,431
+Florida,2013,Writing,472
+Georgia,2013,Writing,472
+Hawaii,2013,Writing,472
+Idaho,2013,Writing,450
+Illinois,2013,Writing,587
+Indiana,2013,Writing,477
+Iowa,2013,Writing,578
+Kansas,2013,Writing,566
+Kentucky,2013,Writing,572
+Louisiana,2013,Writing,550
+Maine,2013,Writing,449
+Maryland,2013,Writing,481
+Massachusetts,2013,Writing,509
+Michigan,2013,Writing,581
+Minnesota,2013,Writing,578
+Mississippi,2013,Writing,565
+Missouri,2013,Writing,579
+Montana,2013,Writing,530
+Nebraska,2013,Writing,569
+Nevada,2013,Writing,469
+New Hampshire,2013,Writing,512
+New Jersey,2013,Writing,502
+New Mexico,2013,Writing,526
+New York,2013,Writing,478
+North Carolina,2013,Writing,477
+North Dakota,2013,Writing,584
+Ohio,2013,Writing,535
+Oklahoma,2013,Writing,550
+Oregon,2013,Writing,499
+Pennsylvania,2013,Writing,480
+Rhode Island,2013,Writing,487
+South Carolina,2013,Writing,465
+South Dakota,2013,Writing,579
+Tennessee,2013,Writing,566
+Texas,2013,Writing,461
+Utah,2013,Writing,551
+Vermont,2013,Writing,507
+Virginia,2013,Writing,497
+Washington,2013,Writing,491
+West Virginia,2013,Writing,500
+Wisconsin,2013,Writing,578
+Wyoming,2013,Writing,573
+Alabama,2014,Total,1616
+Alaska,2014,Total,1494
+Arizona,2014,Total,1552
+Arkansas,2014,Total,1688
+California,2014,Total,1492
+Colorado,2014,Total,1736
+Connecticut,2014,Total,1514
+Delaware,2014,Total,1368
+District of Columbia,2014,Total,1313
+Florida,2014,Total,1434
+Georgia,2014,Total,1450
+Hawaii,2014,Total,1472
+Idaho,2014,Total,1372
+Illinois,2014,Total,1802
+Indiana,2014,Total,1473
+Iowa,2014,Total,1755
+Kansas,2014,Total,1748
+Kentucky,2014,Total,1749
+Louisiana,2014,Total,1675
+Maine,2014,Total,1392
+Maryland,2014,Total,1462
+Massachusetts,2014,Total,1552
+Michigan,2014,Total,1788
+Minnesota,2014,Total,1778
+Mississippi,2014,Total,1713
+Missouri,2014,Total,1777
+Montana,2014,Total,1655
+Nebraska,2014,Total,1755
+Nevada,2014,Total,1458
+New Hampshire,2014,Total,1566
+New Jersey,2014,Total,1520
+New Mexico,2014,Total,1623
+New York,2014,Total,1469
+North Carolina,2014,Total,1478
+North Dakota,2014,Total,1791
+Ohio,2014,Total,1657
+Oklahoma,2014,Total,1693
+Oregon,2014,Total,1546
+Pennsylvania,2014,Total,1485
+Rhode Island,2014,Total,1472
+South Carolina,2014,Total,1442
+South Dakota,2014,Total,1753
+Tennessee,2014,Total,1723
+Texas,2014,Total,1410
+Utah,2014,Total,1708
+Vermont,2014,Total,1554
+Virginia,2014,Total,1533
+Washington,2014,Total,1496
+West Virginia,2014,Total,1501
+Wisconsin,2014,Total,1771
+Wyoming,2014,Total,1737
+Alabama,2014,Reading,545
+Alaska,2014,Reading,509
+Arizona,2014,Reading,523
+Arkansas,2014,Reading,568
+California,2014,Reading,495
+Colorado,2014,Reading,582
+Connecticut,2014,Reading,504
+Delaware,2014,Reading,462
+District of Columbia,2014,Reading,441
+Florida,2014,Reading,486
+Georgia,2014,Reading,490
+Hawaii,2014,Reading,487
+Idaho,2014,Reading,467
+Illinois,2014,Reading,599
+Indiana,2014,Reading,496
+Iowa,2014,Reading,589
+Kansas,2014,Reading,588
+Kentucky,2014,Reading,588
+Louisiana,2014,Reading,563
+Maine,2014,Reading,468
+Maryland,2014,Reading,491
+Massachusetts,2014,Reading,516
+Michigan,2014,Reading,594
+Minnesota,2014,Reading,595
+Mississippi,2014,Reading,580
+Missouri,2014,Reading,596
+Montana,2014,Reading,561
+Nebraska,2014,Reading,589
+Nevada,2014,Reading,494
+New Hampshire,2014,Reading,525
+New Jersey,2014,Reading,500
+New Mexico,2014,Reading,551
+New York,2014,Reading,489
+North Carolina,2014,Reading,498
+North Dakota,2014,Reading,597
+Ohio,2014,Reading,557
+Oklahoma,2014,Reading,576
+Oregon,2014,Reading,523
+Pennsylvania,2014,Reading,499
+Rhode Island,2014,Reading,494
+South Carolina,2014,Reading,488
+South Dakota,2014,Reading,592
+Tennessee,2014,Reading,581
+Texas,2014,Reading,470
+Utah,2014,Reading,579
+Vermont,2014,Reading,523
+Virginia,2014,Reading,518
+Washington,2014,Reading,502
+West Virginia,2014,Reading,509
+Wisconsin,2014,Reading,591
+Wyoming,2014,Reading,589
+Alabama,2014,Mathematics,538
+Alaska,2014,Mathematics,503
+Arizona,2014,Mathematics,527
+Arkansas,2014,Mathematics,569
+California,2014,Mathematics,506
+Colorado,2014,Mathematics,587
+Connecticut,2014,Mathematics,506
+Delaware,2014,Mathematics,461
+District of Columbia,2014,Mathematics,440
+Florida,2014,Mathematics,480
+Georgia,2014,Mathematics,485
+Hawaii,2014,Mathematics,508
+Idaho,2014,Mathematics,463
+Illinois,2014,Mathematics,616
+Indiana,2014,Mathematics,499
+Iowa,2014,Mathematics,600
+Kansas,2014,Mathematics,592
+Kentucky,2014,Mathematics,587
+Louisiana,2014,Mathematics,559
+Maine,2014,Mathematics,473
+Maryland,2014,Mathematics,493
+Massachusetts,2014,Mathematics,529
+Michigan,2014,Mathematics,609
+Minnesota,2014,Mathematics,607
+Mississippi,2014,Mathematics,563
+Missouri,2014,Mathematics,599
+Montana,2014,Mathematics,556
+Nebraska,2014,Mathematics,590
+Nevada,2014,Mathematics,494
+New Hampshire,2014,Mathematics,530
+New Jersey,2014,Mathematics,521
+New Mexico,2014,Mathematics,544
+New York,2014,Mathematics,502
+North Carolina,2014,Mathematics,504
+North Dakota,2014,Mathematics,608
+Ohio,2014,Mathematics,563
+Oklahoma,2014,Mathematics,569
+Oregon,2014,Mathematics,521
+Pennsylvania,2014,Mathematics,504
+Rhode Island,2014,Mathematics,494
+South Carolina,2014,Mathematics,487
+South Dakota,2014,Mathematics,597
+Tennessee,2014,Mathematics,574
+Texas,2014,Mathematics,486
+Utah,2014,Mathematics,575
+Vermont,2014,Mathematics,524
+Virginia,2014,Mathematics,516
+Washington,2014,Mathematics,510
+West Virginia,2014,Mathematics,497
+Wisconsin,2014,Mathematics,605
+Wyoming,2014,Mathematics,586
+Alabama,2014,Writing,533
+Alaska,2014,Writing,482
+Arizona,2014,Writing,502
+Arkansas,2014,Writing,551
+California,2014,Writing,491
+Colorado,2014,Writing,567
+Connecticut,2014,Writing,504
+Delaware,2014,Writing,445
+District of Columbia,2014,Writing,432
+Florida,2014,Writing,468
+Georgia,2014,Writing,475
+Hawaii,2014,Writing,477
+Idaho,2014,Writing,442
+Illinois,2014,Writing,587
+Indiana,2014,Writing,478
+Iowa,2014,Writing,566
+Kansas,2014,Writing,568
+Kentucky,2014,Writing,574
+Louisiana,2014,Writing,553
+Maine,2014,Writing,451
+Maryland,2014,Writing,478
+Massachusetts,2014,Writing,507
+Michigan,2014,Writing,585
+Minnesota,2014,Writing,576
+Mississippi,2014,Writing,570
+Missouri,2014,Writing,582
+Montana,2014,Writing,538
+Nebraska,2014,Writing,576
+Nevada,2014,Writing,470
+New Hampshire,2014,Writing,511
+New Jersey,2014,Writing,499
+New Mexico,2014,Writing,528
+New York,2014,Writing,478
+North Carolina,2014,Writing,476
+North Dakota,2014,Writing,586
+Ohio,2014,Writing,537
+Oklahoma,2014,Writing,548
+Oregon,2014,Writing,502
+Pennsylvania,2014,Writing,482
+Rhode Island,2014,Writing,484
+South Carolina,2014,Writing,467
+South Dakota,2014,Writing,564
+Tennessee,2014,Writing,568
+Texas,2014,Writing,454
+Utah,2014,Writing,554
+Vermont,2014,Writing,507
+Virginia,2014,Writing,499
+Washington,2014,Writing,484
+West Virginia,2014,Writing,495
+Wisconsin,2014,Writing,575
+Wyoming,2014,Writing,562
+Alabama,2015,Total,1651
+Alaska,2015,Total,1424
+Arizona,2015,Total,1565
+Arkansas,2015,Total,1692
+California,2015,Total,1476
+Colorado,2015,Total,1747
+Connecticut,2015,Total,1497
+Delaware,2015,Total,1351
+District of Columbia,2015,Total,1285
+Florida,2015,Total,1418
+Georgia,2015,Total,1459
+Hawaii,2015,Total,1478
+Idaho,2015,Total,1364
+Illinois,2015,Total,1819
+Indiana,2015,Total,1472
+Iowa,2015,Total,1785
+Kansas,2015,Total,1769
+Kentucky,2015,Total,1789
+Louisiana,2015,Total,1732
+Maine,2015,Total,1443
+Maryland,2015,Total,1456
+Massachusetts,2015,Total,1553
+Michigan,2015,Total,1783
+Minnesota,2015,Total,1815
+Mississippi,2015,Total,1764
+Missouri,2015,Total,1802
+Montana,2015,Total,1661
+Nebraska,2015,Total,1758
+Nevada,2015,Total,1508
+New Hampshire,2015,Total,1568
+New Jersey,2015,Total,1501
+New Mexico,2015,Total,1623
+New York,2015,Total,1467
+North Carolina,2015,Total,1485
+North Dakota,2015,Total,1739
+Ohio,2015,Total,1653
+Oklahoma,2015,Total,1708
+Oregon,2015,Total,1545
+Pennsylvania,2015,Total,1487
+Rhode Island,2015,Total,1461
+South Carolina,2015,Total,1458
+South Dakota,2015,Total,1725
+Tennessee,2015,Total,1739
+Texas,2015,Total,1393
+Utah,2015,Total,1716
+Vermont,2015,Total,1541
+Virginia,2015,Total,1535
+Washington,2015,Total,1488
+West Virginia,2015,Total,1538
+Wisconsin,2015,Total,1811
+Wyoming,2015,Total,1790
+Alabama,2015,Reading,557
+Alaska,2015,Reading,485
+Arizona,2015,Reading,528
+Arkansas,2015,Reading,570
+California,2015,Reading,491
+Colorado,2015,Reading,587
+Connecticut,2015,Reading,500
+Delaware,2015,Reading,458
+District of Columbia,2015,Reading,433
+Florida,2015,Reading,481
+Georgia,2015,Reading,493
+Hawaii,2015,Reading,491
+Idaho,2015,Reading,465
+Illinois,2015,Reading,605
+Indiana,2015,Reading,496
+Iowa,2015,Reading,602
+Kansas,2015,Reading,594
+Kentucky,2015,Reading,604
+Louisiana,2015,Reading,584
+Maine,2015,Reading,486
+Maryland,2015,Reading,490
+Massachusetts,2015,Reading,517
+Michigan,2015,Reading,594
+Minnesota,2015,Reading,607
+Mississippi,2015,Reading,595
+Missouri,2015,Reading,605
+Montana,2015,Reading,565
+Nebraska,2015,Reading,590
+Nevada,2015,Reading,511
+New Hampshire,2015,Reading,527
+New Jersey,2015,Reading,495
+New Mexico,2015,Reading,553
+New York,2015,Reading,489
+North Carolina,2015,Reading,502
+North Dakota,2015,Reading,585
+Ohio,2015,Reading,556
+Oklahoma,2015,Reading,582
+Oregon,2015,Reading,525
+Pennsylvania,2015,Reading,500
+Rhode Island,2015,Reading,490
+South Carolina,2015,Reading,494
+South Dakota,2015,Reading,586
+Tennessee,2015,Reading,586
+Texas,2015,Reading,466
+Utah,2015,Reading,579
+Vermont,2015,Reading,520
+Virginia,2015,Reading,520
+Washington,2015,Reading,501
+West Virginia,2015,Reading,525
+Wisconsin,2015,Reading,605
+Wyoming,2015,Reading,603
+Alabama,2015,Mathematics,551
+Alaska,2015,Mathematics,479
+Arizona,2015,Mathematics,532
+Arkansas,2015,Mathematics,569
+California,2015,Mathematics,500
+Colorado,2015,Mathematics,589
+Connecticut,2015,Mathematics,500
+Delaware,2015,Mathematics,453
+District of Columbia,2015,Mathematics,433
+Florida,2015,Mathematics,475
+Georgia,2015,Mathematics,490
+Hawaii,2015,Mathematics,511
+Idaho,2015,Mathematics,453
+Illinois,2015,Mathematics,622
+Indiana,2015,Mathematics,499
+Iowa,2015,Mathematics,611
+Kansas,2015,Mathematics,604
+Kentucky,2015,Mathematics,599
+Louisiana,2015,Mathematics,577
+Maine,2015,Mathematics,485
+Maryland,2015,Mathematics,490
+Massachusetts,2015,Mathematics,530
+Michigan,2015,Mathematics,608
+Minnesota,2015,Mathematics,620
+Mississippi,2015,Mathematics,584
+Missouri,2015,Mathematics,608
+Montana,2015,Mathematics,557
+Nebraska,2015,Mathematics,595
+Nevada,2015,Mathematics,509
+New Hampshire,2015,Mathematics,531
+New Jersey,2015,Mathematics,514
+New Mexico,2015,Mathematics,545
+New York,2015,Mathematics,501
+North Carolina,2015,Mathematics,508
+North Dakota,2015,Mathematics,594
+Ohio,2015,Mathematics,563
+Oklahoma,2015,Mathematics,573
+Oregon,2015,Mathematics,520
+Pennsylvania,2015,Mathematics,506
+Rhode Island,2015,Mathematics,491
+South Carolina,2015,Mathematics,493
+South Dakota,2015,Mathematics,581
+Tennessee,2015,Mathematics,582
+Texas,2015,Mathematics,478
+Utah,2015,Mathematics,579
+Vermont,2015,Mathematics,520
+Virginia,2015,Mathematics,517
+Washington,2015,Mathematics,506
+West Virginia,2015,Mathematics,511
+Wisconsin,2015,Mathematics,618
+Wyoming,2015,Mathematics,600
+Alabama,2015,Writing,543
+Alaska,2015,Writing,460
+Arizona,2015,Writing,505
+Arkansas,2015,Writing,553
+California,2015,Writing,485
+Colorado,2015,Writing,571
+Connecticut,2015,Writing,497
+Delaware,2015,Writing,440
+District of Columbia,2015,Writing,419
+Florida,2015,Writing,462
+Georgia,2015,Writing,476
+Hawaii,2015,Writing,476
+Idaho,2015,Writing,446
+Illinois,2015,Writing,592
+Indiana,2015,Writing,477
+Iowa,2015,Writing,572
+Kansas,2015,Writing,571
+Kentucky,2015,Writing,586
+Louisiana,2015,Writing,571
+Maine,2015,Writing,472
+Maryland,2015,Writing,476
+Massachusetts,2015,Writing,506
+Michigan,2015,Writing,581
+Minnesota,2015,Writing,588
+Mississippi,2015,Writing,585
+Missouri,2015,Writing,589
+Montana,2015,Writing,539
+Nebraska,2015,Writing,573
+Nevada,2015,Writing,488
+New Hampshire,2015,Writing,510
+New Jersey,2015,Writing,492
+New Mexico,2015,Writing,525
+New York,2015,Writing,477
+North Carolina,2015,Writing,475
+North Dakota,2015,Writing,560
+Ohio,2015,Writing,534
+Oklahoma,2015,Writing,553
+Oregon,2015,Writing,500
+Pennsylvania,2015,Writing,481
+Rhode Island,2015,Writing,480
+South Carolina,2015,Writing,471
+South Dakota,2015,Writing,558
+Tennessee,2015,Writing,571
+Texas,2015,Writing,449
+Utah,2015,Writing,558
+Vermont,2015,Writing,501
+Virginia,2015,Writing,498
+Washington,2015,Writing,481
+West Virginia,2015,Writing,502
+Wisconsin,2015,Writing,588
+Wyoming,2015,Writing,587

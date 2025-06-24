@@ -1,0 +1,1130 @@
+<!DOCTYPE html>
+<!--[if lt IE 9]><html class="lt-ie9"><![endif]-->
+<!--[if gt IE 8]><!-->
+<html lang="en">
+<!--<![endif]--><head>
+<!-- Basic Page Needs
+================================================== -->
+<meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+
+<!-- Mobile Specific Metas
+================================================== -->
+<meta name="HandheldFriendly" content="True">
+<meta name="MobileOptimized" content="320">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<!-- Title and meta description
+================================================== -->
+<title>Accountability / Assessment &amp; Accountability / Idaho Department of Education</title>
+<meta name="description" content="Find information and resources including the Report Card for Accountability at the Idaho Department of Education.">
+<!-- Twitter Card data -->
+<meta name="twitter:card" content="Find information and resources including the Report Card for Accountability at the Idaho Department of Education." />
+<!-- Open Graph data -->
+<meta property="og:description" content="Find information and resources including the Report Card for Accountability at the Idaho Department of Education." />
+<meta property="og:title" content="Idaho Department of Education" />
+<meta property="og:url" content="https://sde.idaho.gov" />
+<meta property="og:image" content="http://sde.idaho.gov/_images/Dept-Logo.png" />
+<meta property="og:type" content="website" />
+<meta property="og:site_name" content="Idaho Department of Education" />
+
+<!--[if lt IE 9]>
+    <script src="//sde.idaho.gov/_assets/js/vendor/html5shiv.js"></script>
+    <script src="//oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+    <script src="//oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
+    <![endif]-->
+
+<!-- Favicons
+================================================== -->
+<!-- 128x128 -->
+<link rel="shortcut icon" type="image/ico" href="//www.sde.idaho.gov/_assets/img/favicons/favicon.ico" />
+<link rel="icon" type="image/png" href="//www.sde.idaho.gov/_assets/img/favicons/favicon.png" />
+
+<!-- 192x192, as recommended for Android
+  //updates.html5rocks.com/2014/11/Support-for-theme-color-in-Chrome-39-for-Android
+  -->
+<link rel="icon" type="image/png" sizes="192x192" href="//www.sde.idaho.gov/_assets/img/favicons/favicon-192.png" />
+
+<!-- 57x57 (precomposed) for iPhone 3GS, pre-2011 iPod Touch and older Android devices -->
+<link rel="apple-touch-icon" href="//www.sde.idaho.gov/_assets/img/favicons/favicon-57.png">
+<!-- 72x72 (precomposed) for 1st generation iPad, iPad 2 and iPad mini -->
+<link rel="apple-touch-icon" sizes="72x72" href="//www.sde.idaho.gov/_assets/img/favicons/favicon-72.png">
+<!-- 114x114 (precomposed) for iPhone 4, 4S, 5 and post-2011 iPod Touch -->
+<link rel="apple-touch-icon" sizes="114x114" href="//www.sde.idaho.gov/_assets/img/favicons/favicon-114.png">
+<!-- 144x144 (precomposed) for iPad 3rd and 4th generation -->
+<link rel="apple-touch-icon" sizes="144x144" href="//www.sde.idaho.gov/_assets/img/favicons/favicon-144.png">
+
+<!-- CSS
+================================================== -->
+<link href="//www.sde.idaho.gov/_assets/css/bootstrap.css" rel="stylesheet" type="text/css">
+<link href="//www.sde.idaho.gov/_assets/css/font-awesome.css" rel="stylesheet">
+<link href="//www.sde.idaho.gov/_assets/css/style7.css" rel="stylesheet">
+<link href="//www.sde.idaho.gov/_assets/css/responsive.css" rel="stylesheet">
+<link href="//www.sde.idaho.gov/_assets/css/uswds.min.css" rel="stylesheet" type="text/css">
+
+<!-- Google Analytics
+================================================== -->
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+	
+  ga('create', 'UA-60192470-1', 'auto');
+  ga('send', 'pageview');
+</script>
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-60192470-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-60192470-1');
+</script>
+
+
+<!-- Siteimprove Analytics
+================================================== -->
+<script type="text/javascript">
+/*<![CDATA[*/
+(function() {
+var sz = document.createElement('script'); sz.type = 'text/javascript'; sz.async = true;
+sz.src = '//siteimproveanalytics.com/js/siteanalyze_6084991.js';
+var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(sz, s);
+})();
+/*]]>*/
+</script>
+
+<script type="text/javascript">
+document.onkeydown=function(evt){
+	evt=evt||window.event; 
+		if(evt.keyCode==27){
+		document.getElementById("megamenu-1").setAttribute("aria-hidden","true");
+		document.getElementById("megabtn").setAttribute("aria-expanded","false");
+	}
+};
+</script>
+
+ <!-- Mega Menu
+================================================== -->
+<script src="//www.sde.idaho.gov/_assets/js/uswds.min.js"></script>
+</head>
+
+<!-- body
+========================================================================== -->
+<body>
+<a href="#main-content" class="skip">Skip to main content</a> <a href="#sidebar-area" class="skip">Skip to page-level navigation</a> 
+
+  <header class="usa-header usa-header-basic usa-header-basic-megamenu">
+  <div class="container">
+    <div id="site-logo" class="col-lg-4 col-md-4"> <a href="https://www.sde.idaho.gov/" class="site-logo">
+      <h1 class="site-logo-main">Idaho Department of Education</h1>
+      </a>
+    </div>
+	  <div class="usa-navbar pull-right">
+	<button class="usa-menu-btn">Menu</button>
+    </div>
+    <nav class="usa-nav">
+      <div class="usa-nav-inner">
+        <button class="usa-nav-close"> <img src="https://www.sde.idaho.gov/_assets/img/close.png" alt="close"> </button>
+        <ul class="usa-nav-primary usa-accordion">
+          <li>
+            <button class="usa-accordion-button usa-nav-link" aria-expanded="false" aria-controls="megamenu-1" id="megabtn"> <span><i class="fa fa-bars"></i> Menu</span> </button>
+            <ul class="usa-nav-submenu usa-megamenu usa-grid-full" id="megamenu-1">
+              <li class="usa-megamenu-col">
+                <ul>
+                  <li style="color: white; font-size: 14pt"><strong>DEPARTMENTS</strong></li>
+
+                  <li><a href="https://www.sde.idaho.gov/accounting/">Accounting</a></li>
+                  <li><a href="https://www.sde.idaho.gov/assessment/">Assessment &amp; Accountability</a></li>
+                  <li><a href="https://www.sde.idaho.gov/cert-psc/">Certification &amp; Professional Standards</a></li>
+                  <li><a href="https://www.sde.idaho.gov/cnp/">Child Nutrition Programs</a></li>
+				  <li><a href="https://www.sde.idaho.gov/communications/">Communications</a></li>
+				  <li><a href="https://www.sde.idaho.gov/academic/">Content &amp; Curriculum</a></li>
+                  <li><a href="https://www.sde.idaho.gov/federal-programs/"> Federal Programs</a></li>
+				  <li><a href="https://www.sde.idaho.gov/indian-ed/">Indian Education</a></li>
+                </ul>
+              </li>
+              <li class="usa-megamenu-col">
+                <ul>
+                  <li>&nbsp;</li>
+                  <li><a href="https://www.sde.idaho.gov/mastery-ed/">Mastery Education</a></li>
+                  <li><a href="https://www.sde.idaho.gov/finance/">Public School Finance</a></li>
+                  <li><a href="https://www.sde.idaho.gov/school-choice/">School Choice</a></li>
+                  <li><a href="https://www.sde.idaho.gov/sped/">Special Education</a></li>
+                  <li><a href="https://www.sde.idaho.gov/student-engagement/">Student Engagement &amp; Safety Coordination</a></li>
+                  <li><a href="https://www.sde.idaho.gov/student-transportation/">Student Transportation</a></li>
+                </ul>
+                <p><a href="https://www.sde.idaho.gov/departments.html" class="link-special"><em><strong>Departments &amp; Programs</strong></em> <i class="fa fa-long-arrow-right"></i></a></p>
+              </li>
+              <li class="usa-megamenu-col">
+                <ul>
+                  <li style="color:white; font-size: 14pt"><strong>INFORMATION FOR &#8230;</strong></li>
+                  <li><a href="https://www.sde.idaho.gov/schools.html"> <i class="fa fa-building"></i> Schools</a></li>
+                  <li><a href="https://sde.idaho.gov/students/"> <i class="fa fa-child"></i> Students</a></li>
+                  <li><a href="https://prtoolkit.org" target="_blank"> <i class="fa fa-male"></i> Parents</a></li>
+                  <li><a href="https://www.sde.idaho.gov/community.html"> <i class="fa fa-users"></i> Community</a></li>
+                </ul>
+              </li>
+              <li class="usa-megamenu-col">
+                <ul>
+                  <li>&nbsp;</li>
+                  <li><a href="https://www.sde.idaho.gov/events/"> <i class="fa fa-calendar"></i> Events</a></li>
+                  <li><a href="https://www.sde.idaho.gov/communications/"> <i class="fa fa-newspaper-o"></i> News</a></li>
+                  <li><a href="https://www.sde.idaho.gov/superintendent/"> <i class="fa fa-user"></i> Superintendent</a></li>
+                  <li><a href="https://www.sde.idaho.gov/topics/"> <i class="fa fa-align-left"></i> Topics</a> </li>
+                  <li><a href="https://www.sde.idaho.gov/sitemap.html" class="link-special"><em><strong>A - Z Index</strong></em> <i class="fa fa-long-arrow-right"></i></a></li>
+                </ul>
+              </li>
+            </ul>
+          </li>
+          <li> <a class="usa-nav-link" href="https://www.sde.idaho.gov/search.html"> <span><i class="fa fa-search"></i> Search</span> </a> </li>
+          <li> <a class="usa-nav-link" href="https://www.sde.idaho.gov/language.html"> <span><i class="fa fa-globe"></i> Language</span> </a> </li>
+        </ul>
+      </div>
+			
+    </nav>
+  </div>
+</header>
+<div class="usa-overlay"> </div>
+<!-- /#header-main-area -->
+
+<div id="page-navigator" role="menubar">
+  <div class="container">
+    <div class="site-breadcrumbs pull-left">
+      <ol class="breadcrumb">
+        <li><a href="../../index.html">Home</a></li>
+        <li><a href="../../departments.html">Departments</a></li>
+        <li><a href="../index.html">Assessment &amp; Accountability</a></li>
+        <li class="active">Accountability</li>
+      </ol>
+    </div>
+    <!-- /.site-breadcrumbs --> 
+  </div>
+  <!-- /.container --> 
+</div>
+<!-- /#page-navigator -->
+
+<main id="main-content" role="main" aria-label="region1">
+  <section class="dept-slider full-width" role="banner" aria-label="Primary">
+    <div id="content-slider-assessment-accountability" class="full-width slider-style-dept"> 
+      
+      <!-- Wrapper for header -->
+      <div class="slider-inner-dept">
+        <div class="container">
+          <div class="slide-content-dept">
+            <h2 class="emphasis">Accountability</h2>
+          </div>
+        </div>
+      </div>
+      <!-- /.slider-inner-dept --> 
+      
+    </div>
+    <!-- /#content-slider --> 
+  </section>
+  <!-- /.dept-slider -->
+  <div class="special-margin"></div>
+  <div class="container">
+    <div class="row">
+      <section class="col-md-9" role="region" aria-label="Content">
+        <p class="lead">The Accountability program staff prepares performance reports and provides technical support to districts and schools. Staff also establishes business rules and identifies schools in need with internal and external stakeholders.</p>
+        <hr>
+		<!-- Nav tabs -->
+         <div class="tab-container">
+          <ul class="nav nav-tabs" role="tablist">
+            <li role="presentation" class="active"><a href="#files" aria-controls="files" role="tab" data-toggle="tab">Files</a></li>
+            <li role="presentation"><a href="#faq" aria-controls="faq" role="tab" data-toggle="tab">FAQs</a></li>
+            <li role="presentation"><a href="#training" aria-controls="training" role="tab" data-toggle="tab">Training</a></li>
+            <li role="presentation"><a href="#links" aria-controls="links" role="tab" data-toggle="tab"> Links</a></li>
+          </ul>
+          
+          <!-- Tab panes -->
+         <div class="tab-content">
+            <div role="tabpanel" class="tab-pane active" id="files">
+              <h4 class="tab">Resource Files</h4>
+			  <h5 class="tab">Results</h5>
+			  <div class="usa-accordion-bordered">
+            <ul class="usa-unstyled-list">
+              <li>
+              <button class="usa-button-unstyled" aria-expanded="false" aria-controls="collapsible-absent">Chronic Absenteeism</button>
+              <div id="collapsible-absent" aria-hidden="true" class="usa-accordion-content">
+              <ul class="icon-list">
+			  <li class="xls"><a href="files/general/2023-2024-Chronic-Absent-Aggregates.xlsx">Chronic Absenteeism in School Year 2023-2024</a></li>
+			  <li class="xls"><a href="files/general/2022-2023-Chronic-Absent-Aggregates.xlsx">Chronic Absenteeism in School Year 2022-2023</a></li>	  
+              <li class="xls"><a href="files/general/2021-2022-Chronic-Absent-Aggregates.xlsx">Chronic Absenteeism in School Year 2021-2022</a></li>
+			  <li class="xls"><a href="files/general/2020-2021-Chronic-Absent-Aggregates.xlsx">Chronic Absenteeism in School Year 2020-2021</a></li>
+			  </ul>
+              <!-- / accordion item -->
+                    </div>
+                  </li>
+                </ul>
+              </div>
+			  <!-- /panel-item -->	
+              <div class="usa-accordion-bordered">
+                <ul class="usa-unstyled-list">
+              <li>
+              <button class="usa-button-unstyled" aria-expanded="false" aria-controls="collapsible-ELPA"><abbr title="Idaho English Language Proficiency Assessment">ELPA</abbr></button>
+              <div id="collapsible-ELPA" aria-hidden="true" class="usa-accordion-content">
+              <ul class="icon-list">
+				<li class="xls"><a href="files/accountability-results/2024/2023-2024-ELPA-By-Performance-Level.xlsx">2024 <abbr title="English Language Proficiency Assessment">ELPA</abbr> by Performance Level</a></li>
+				<li class="xls"><a href="files/accountability-results/2024/2023-2024-ELPA-Proficiency-Growth.xlsx">2024 <abbr title="English Language Proficiency Assessment">ELPA</abbr> Proficiency &amp; Growth</a></li>
+				<li class="xls"><a href="files/accountability-results/2023/2023-ELPA-Results.xlsx">2023 <abbr title="English Language Proficiency Assessment">ELPA</abbr> Results</a></li>  
+                <li class="xls"><a href="files/accountability-results/2022/2021-2022-ELPA-By-Level-Aggregates.xlsx">2022 <abbr title="English Language Proficiency Assessment">ELPA</abbr> Results</a></li>
+				<li class="xls"><a href="files/accountability-results/2021/2020-2021-ELPA-By-Level-Aggregates.xlsx">2021 <abbr title="English Language Proficiency Assessment">ELPA</abbr> Results</a></li>
+				<li class="xls"><a href="files/accountability-results/2020/2019-2020-ELPA-By-Level-And-Assessment-Type-Aggregates.xlsx">2020 <abbr title="English Language Proficiency Assessment">ELPA</abbr> Results</a></li>
+				<li class="xls"><a href="files/accountability-results/2019/2019-Idaho-English-Language-Proficiency-Assessment-Results.xlsx">2019 <abbr title="English Language Proficiency Assessment">ELPA</abbr> Results</a></li>
+              </ul>
+              <!-- / accordion item -->
+					</div>
+                  </li>
+                </ul>
+              </div>
+			  <!-- /panel-item -->
+			  <div class="usa-accordion-bordered">
+            <ul class="usa-unstyled-list">
+              <li>
+              <button class="usa-button-unstyled" aria-expanded="false" aria-controls="collapsible-ESS">Engagement and Satisfaction Survey Results</button>
+              <div id="collapsible-ESS" aria-hidden="true" class="usa-accordion-content">
+              <ul class="icon-list">
+              <li class="xls"><a href="files/accountability-results/2022/2021-2022-Parent-Survey-Aggregates.xlsx">2021-2022 Parent Survey Results</a></li>
+			  <li class="xls"><a href="files/accountability-results/2022/2021-2022-Staff-Survey-Aggregates.xlsx">2021-2022 Staff Survey Results</a></li>
+			  <li class="xls"><a href="files/accountability-results/2022/2021-2022-Student-Survey-Aggregates.xlsx">2021-2022 Student Survey Results</a></li>
+			  </ul>
+              <!-- / accordion item -->
+                    </div>
+                  </li>
+                </ul>
+              </div>
+			  <!-- /panel-item --> 
+			  <div class="usa-accordion-bordered">
+              <ul class="usa-unstyled-list">
+              <li>
+              <button class="usa-button-unstyled" aria-expanded="false" aria-controls="collapsible-AR"><abbr title="Idaho Standards Achievement Tests">ISAT</abbr> | <abbr title="Idaho Alternate Assessment">IDAA</abbr></button>
+              <div id="collapsible-AR" aria-hidden="true" class="usa-accordion-content">
+              <div class="panel panel-default">
+              <div class="panel-heading">
+              <h4 class="panel-title"> <a data-toggle="collapse" data-parent="#accordion" href="#collapseOnec24" class="collapsed">2024 <abbr title="Idaho Standards Achievement Tests">ISAT</abbr> Results</a> </h4>
+              </div>
+              <div id="collapseOnec24" class="panel-collapse collapse">
+              <div class="panel-body">
+               <ul class="icon-list">
+                <li class="xls"><a href="files/accountability-results/2024/2023-2024-ISAT-Aggregates-Continuously-Enrolled-REDACTED.xlsx" target="_blank">2024 <abbr title="Idaho Standards Achievement Tests">ISAT</abbr>/<abbr title="Idaho Alternate Assessment">IDAA</abbr> by Performance Levels (Continuously Enrolled)</a></li>
+				<li class="xls"><a href="files/accountability-results/2024/2023-2024-ISAT-Assessment-Aggregates-All-Students-REDACTED.xlsx" target="_blank">2024 <abbr title="Idaho Standards Achievement Tests">ISAT</abbr>/<abbr title="Idaho Alternate Assessment">IDAA</abbr> by Performance Levels (All Students)</a></li>
+				<li class="xls"><a href="files/accountability-results/2024/2023-2024-ISAT-Aggregates-REDACTED.xlsx" target="_blank">2024 <abbr title="Idaho Standards Achievement Tests">ISAT</abbr>/<abbr title="Idaho Alternate Assessment">IDAA</abbr> Proficiency, Growth, and Participation (Continuously Enrolled)</a></li>
+              </ul>
+               </div>
+               </div>
+               </div>
+              <!-- / accordion item -->
+		      <div class="panel panel-default">
+              <div class="panel-heading">
+              <h4 class="panel-title"> <a data-toggle="collapse" data-parent="#accordion" href="#collapseOnec23" class="collapsed">2023 <abbr title="Idaho Standards Achievement Tests">ISAT</abbr> Results</a> </h4>
+              </div>
+              <div id="collapseOnec23" class="panel-collapse collapse">
+              <div class="panel-body">
+               <ul class="icon-list">
+                <li class="xls"><a href="files/accountability-results/2023/2022-2023-ALL-STUDENTS-ISAT-By-Level-Aggregates.xlsx" target="_blank">2023 <abbr title="Idaho Standards Achievement Tests">ISAT</abbr> Assessment Results (ALL STUDENTS)</a></li>
+              </ul>
+               </div>
+               </div>
+               </div>
+              <!-- / accordion item -->
+			  <div class="panel panel-default">
+              <div class="panel-heading">
+              <h4 class="panel-title"> <a data-toggle="collapse" data-parent="#accordion" href="#collapseOnec22" class="collapsed">2022 <abbr title="Idaho Standards Achievement Tests">ISAT</abbr> Results</a> </h4>
+              </div>
+              <div id="collapseOnec22" class="panel-collapse collapse">
+              <div class="panel-body">
+               <ul class="icon-list">
+                <li class="xls"><a href="files/accountability-results/2022/2022-ISAT-Results.xlsx" target="_blank">2022 <abbr title="Idaho Standards Achievement Tests">ISAT</abbr> Assessment Results</a></li>
+				<li class="xls"><a href="files/accountability-results/2022/2019-2022-ISAT-Results-for-Comparison.xlsx" target="_blank">2019-2022 <abbr title="Idaho Standards Achievement Tests">ISAT</abbr> Assessment Results for Comparison</a></li>   
+              </ul>
+               </div>
+               </div>
+               </div>
+              <!-- / accordion item -->	  
+			  <div class="panel panel-default">
+              <div class="panel-heading">
+              <h4 class="panel-title"> <a data-toggle="collapse" data-parent="#accordion" href="#collapseOneb" class="collapsed">2021 <abbr title="Idaho Standards Achievement Tests">ISAT</abbr> Results</a> </h4>
+              </div>
+              <div id="collapseOneb" class="panel-collapse collapse">
+              <div class="panel-body">
+               <ul class="icon-list">
+				<li class="xls"><a href="files/accountability-results/2021/2021-ISAT-Assessment-Results.xlsx" target="_blank">2021 <abbr title="Idaho Standards Achievement Tests">ISAT</abbr>/<abbr title="Idaho Alternate Assessment">IDAA</abbr> Results</a></li>
+				<li class="xls"><a href="files/growth-tools/2020-2021-ISAT-Two-Year-Growth.xlsx" target="_blank">2019-2021 <abbr title="Idaho Standards Achievement Tests">ISAT</abbr> Two Year Growth</a></li>
+              </ul>
+               </div>
+               </div>
+               </div>
+              <!-- / accordion item -->
+			  <div class="panel panel-default">
+              <div class="panel-heading">
+              <h4 class="panel-title"> <a data-toggle="collapse" data-parent="#accordion" href="#collapseOne" class="collapsed">2014 - 2019 <abbr title="Idaho Standards Achievement Tests">ISAT</abbr> Results</a> </h4>
+              </div>
+              <div id="collapseOne" class="panel-collapse collapse">
+              <div class="panel-body">
+               <ul class="icon-list">
+                <li class="xls"><a href="files/accountability-results/2014-2015/2014-2015-ISAT-Results.xlsx" target="_blank">2014-2015 <abbr title="Idaho Standards Achievement Tests">ISAT</abbr> Results</a></li>
+                <li class="xls"><a href="files/accountability-results/2015-2016/2015-2016-ISAT-Results.xlsx" target="_blank">2015-2016 <abbr title="Idaho Standards Achievement Tests">ISAT</abbr> Results</a></li>
+                <li class="xls"><a href="files/accountability-results/2016-2017/2016-2017-ISAT-Results.xlsx" target="_blank">2016-2017 <abbr title="Idaho Standards Achievement Tests">ISAT</abbr> Results</a></li>
+                <li class="xls"><a href="files/accountability-results/2017-2018/2017-2018-ISAT-Results.xlsx" target="_blank">2017-2018 <abbr title="Idaho Standards Achievement Tests">ISAT</abbr> Results</a></li>
+				<li class="xls"><a href="files/accountability-results/2019/2019-ISAT-Assessment-Results.xlsx" target="_blank">2019 <abbr title="Idaho Standards Achievement Tests">ISAT</abbr> Results</a></li>
+              </ul>
+               </div>
+               </div>
+               </div>
+              <!-- / accordion item -->
+                    </div>
+                  </li>
+                </ul>
+              </div>
+              <!-- /.panel-item -->
+		  <div class="usa-accordion-bordered">
+            <ul class="usa-unstyled-list">
+              <li>
+              <button class="usa-button-unstyled" aria-expanded="false" aria-controls="collapsible-IR">Idaho Reading Indicator (IRI)</button>
+              <div id="collapsible-IR" aria-hidden="true" class="usa-accordion-content">
+              <div class="panel panel-default">
+              <div class="panel-heading">
+              <h4 class="panel-title"> <a data-toggle="collapse" data-parent="#accordion" href="#collapseTwob" class="collapsed">2018-2019 Results</a> </h4>
+              </div>
+              <div id="collapseTwob" class="panel-collapse collapse">
+              <div class="panel-body">
+               <ul class="icon-list">
+                <li class="xls"><a href="files/accountability-results/2019/2019-Spring-IRI-Results.xlsx" target="_blank">2019 Spring <abbr title="Idaho Reading Indicator">IRI</abbr> Results </a></li>
+				<li class="xls"><a href="files/accountability-results/2018/New-IRI-Results-Fall-2018.xlsx" target="_blank">2018 Fall <abbr title="Idaho Reading Indicator">IRI</abbr> Results</a></li>
+              </ul>
+               </div>
+               </div>
+               </div>
+              <!-- / accordion item -->
+			  <div class="panel panel-default">
+              <div class="panel-heading">
+              <h4 class="panel-title"> <a data-toggle="collapse" data-parent="#accordion" href="#collapseTwoc" class="collapsed">2019-2020 Results</a> </h4>
+              </div>
+              <div id="collapseTwoc" class="panel-collapse collapse">
+              <div class="panel-body">
+               <ul class="icon-list">
+                <li class="xls"><a href="files/accountability-results/2019/Fall-2019-IRI-Results.xlsx" target="_blank">2019 Fall <abbr title="Idaho Reading Indicator">IRI</abbr> Results </a></li>
+				<li class="xls"><a href="files/accountability-results/2020/2020-Spring-IRI-Results.xlsx" target="_blank"> 2020 Spring <abbr title="Idaho Reading Indicator">IRI</abbr> Results </a></li>
+              </ul>
+               </div>
+               </div>
+               </div>
+				<!-- / accordion item -->
+			  <div class="panel panel-default">
+              <div class="panel-heading">
+              <h4 class="panel-title"> <a data-toggle="collapse" data-parent="#accordion" href="#collapseThreec" class="collapsed">2020-2021 Results</a> </h4>
+              </div>
+              <div id="collapseThreec" class="panel-collapse collapse">
+              <div class="panel-body">
+               <ul class="icon-list">
+                <li class="xls"><a href="files/accountability-results/2020/Fall-2020-IRI-Results.xlsx" target="_blank">2020 Fall <abbr title="Idaho Reading Indicator">IRI</abbr> Results </a></li>
+				<li class="xls"><a href="files/accountability-results/2021/2021-Spring-IRI-Results.xlsx" target="_blank">2021 Spring <abbr title="Idaho Reading Indicator">IRI</abbr> Results</a></li>
+              </ul>
+               </div>
+               </div>
+               </div>
+				<!-- / accordion item -->
+			   <div class="panel panel-default">
+              <div class="panel-heading">
+              <h4 class="panel-title"> <a data-toggle="collapse" data-parent="#accordion" href="#collapseThreed" class="collapsed">2021-2022 Results</a> </h4>
+              </div>
+              <div id="collapseThreed" class="panel-collapse collapse">
+              <div class="panel-body">
+               <ul class="icon-list">
+                <li class="xls"><a href="files/accountability-results/2021/Fall-2021-IRI-Results.xlsx" target="_blank">2021 Fall <abbr title="Idaho Reading Indicator">IRI</abbr> Results</a></li>
+				<li class="pdf"><a href="files/accountability-results/2021/Fall-2021-IRI-Results-Overview.pdf" target="_blank">2021 Fall <abbr title="Idaho Reading Indicator">IRI</abbr> Results Overview</a></li>
+				<li class="xls"><a href="files/accountability-results/2022/2022-Spring-IRI-Results.xlsx" target="_blank">2022 Spring <abbr title="Idaho Reading Indicator">IRI</abbr> Results</a></li>
+              </ul>
+               </div>
+               </div>
+               </div>
+				<!-- / accordion item -->
+			   <div class="panel panel-default">
+              <div class="panel-heading">
+              <h4 class="panel-title"> <a data-toggle="collapse" data-parent="#accordion" href="#collapse2022-2023" class="collapsed">2022-2023 Results</a> </h4>
+              </div>
+              <div id="collapse2022-2023" class="panel-collapse collapse">
+              <div class="panel-body">
+               <ul class="icon-list">
+                <li class="xls"><a href="files/accountability-results/2022/2022-2023-Fall-IRI-Level-Results.xlsx" target="_blank">2022 Fall <abbr title="Idaho Reading Indicator">IRI</abbr> Results (ALL STUDENTS)</a></li>
+				<li class="xls"><a href="files/accountability-results/2023/2022-2023-ALL-STUDENTS-Spring-IRI-Level-Results.xlsx" target="_blank">2023 Spring <abbr title="Idaho Reading Indicator">IRI</abbr> Results (ALL STUDENTS)</a></li>
+              </ul>
+               </div>
+               </div>
+               </div>
+				<!-- / accordion item -->
+			   <div class="panel panel-default">
+              <div class="panel-heading">
+              <h4 class="panel-title"> <a data-toggle="collapse" data-parent="#accordion" href="#collapse2023-2024" class="collapsed">2023-2024 Results</a> </h4>
+              </div>
+              <div id="collapse2023-2024" class="panel-collapse collapse">
+              <div class="panel-body">
+               <ul class="icon-list">
+                <li class="xls"><a href="files/accountability-results/2023/2023-All-Students-Fall-IRI-Level-Results-Redacted.xlsx" target="_blank">2023 Fall <abbr title="Idaho Reading Indicator">IRI</abbr> Results (ALL STUDENTS)</a></li>
+				<li class="xls"><a href="files/accountability-results/2024/2024-All-Students-Spring-IRI-Level-Results-Redacted.xlsx" target="_blank">2024 Spring <abbr title="Idaho Reading Indicator">IRI</abbr> Results (ALL STUDENTS)</a></li>
+              </ul>
+               </div>
+               </div>
+               </div>
+				<!-- / accordion item -->
+			  <div class="panel panel-default">
+              <div class="panel-heading">
+              <h4 class="panel-title"> <a data-toggle="collapse" data-parent="#accordion" href="#collapse2024-2025" class="collapsed">2024-2025 Results</a> </h4>
+              </div>
+              <div id="collapse2024-2025" class="panel-collapse collapse">
+              <div class="panel-body">
+               <ul class="icon-list">
+                <li class="xls"><a href="files/accountability-results/2025/2024-2025-Fall-IRI-Level-Results-ALL-STUDENTS.xlsx" target="_blank">2024 Fall <abbr title="Idaho Reading Indicator">IRI</abbr> Results (ALL STUDENTS)</a></li>
+              </ul>
+               </div>
+               </div>
+               </div>
+				<!-- / accordion item -->
+                    </div>
+                  </li>
+                </ul>
+              </div>
+              <!-- /.panel-item -->
+		  <div class="usa-accordion-bordered">
+            <ul class="usa-unstyled-list">
+              <li>
+              <button class="usa-button-unstyled" aria-expanded="false" aria-controls="collapsible-GR">Graduation Rate</button>
+              <div id="collapsible-GR" aria-hidden="true" class="usa-accordion-content">
+			  <div class="panel panel-default">
+              <div class="panel-heading">
+              <h4 class="panel-title"> <a data-toggle="collapse" data-parent="#accordion" href="#collapseThree" class="collapsed">Cohort Class of 2017/2018</a> </h4>
+              </div>
+              <div id="collapseThree" class="panel-collapse collapse">
+              <div class="panel-body">
+               <ul class="icon-list">
+                <li class="xls"><a href="files/accountability-results/2017-Cohort-Five-Year-Grad-Rate.xlsx">Class of 2017 Five-Year Graduation Rate</a></li>
+				<li class="xls"><a href="files/accountability-results/2017-2018-Cohort-Grad-Rate-4yr-public.xlsx">Class of 2018 Four-Year Graduation Rate</a></li>
+              </ul>
+               </div>
+               </div>
+               </div>
+              <!-- / accordion item -->
+			  <div class="panel panel-default">
+              <div class="panel-heading">
+              <h4 class="panel-title"> <a data-toggle="collapse" data-parent="#accordion" href="#collapseThreeb" class="collapsed">Cohort Class of 2018/2019</a> </h4>
+              </div>
+              <div id="collapseThreeb" class="panel-collapse collapse">
+              <div class="panel-body">
+               <ul class="icon-list">
+				<li class="xls"><a href="files/accountability-results/Class-of-2018-Five-Year-Graduation-Rate.xlsx">Class of 2018 Five-Year Graduation Rate</a></li>
+				<li class="xls"><a href="files/accountability-results/Class-of-2019-Four-Year-Graduation-Rate.xlsx">Class of 2019 Four-Year Graduation Rate</a></li>
+              </ul>
+               </div>
+               </div>
+               </div>
+              <!-- / accordion item -->
+			  <div class="panel panel-default">
+              <div class="panel-heading">
+              <h4 class="panel-title"> <a data-toggle="collapse" data-parent="#accordion" href="#collapseThreeca" class="collapsed">Cohort Class of 2019/2020</a> </h4>
+              </div>
+              <div id="collapseThreeca" class="panel-collapse collapse">
+              <div class="panel-body">
+               <ul class="icon-list">
+				<li class="xls"><a href="files/accountability-results/Class-of-2019-Five-Year-Graduation-Rate.xlsx">Class of 2019 Five-Year Graduation Rate</a></li>
+				<li class="xls"><a href="files/accountability-results/Class-of-2020-Four-Year-Graduation-Rate.xlsx">Class of 2020 Four-Year Graduation Rate</a></li>
+              </ul>
+               </div>
+               </div>
+               </div>
+              <!-- / accordion item -->
+			  <div class="panel panel-default">
+              <div class="panel-heading">
+              <h4 class="panel-title"> <a data-toggle="collapse" data-parent="#accordion" href="#collapseThreeda" class="collapsed">Cohort Class of 2020/2021</a> </h4>
+              </div>
+              <div id="collapseThreeda" class="panel-collapse collapse">
+              <div class="panel-body">
+               <ul class="icon-list">
+				<li class="xls"><a href="files/accountability-results/Class-of-2020-Five-Year-Graduation-Rate.xlsx">Class of 2020 Five-Year Graduation Rate</a></li>
+				<li class="xls"><a href="files/accountability-results/Class-of-2021-Four-Year-Graduation-Rate.xlsx">Class of 2021 Four-Year Graduation Rate</a></li>
+              </ul>
+               </div>
+               </div>
+               </div>
+              <!-- / accordion item -->	
+				<div class="panel panel-default">
+              <div class="panel-heading">
+              <h4 class="panel-title"> <a data-toggle="collapse" data-parent="#accordion" href="#collapseThreedab" class="collapsed">Cohort Class of 2021/2022</a> </h4>
+              </div>
+              <div id="collapseThreedab" class="panel-collapse collapse">
+              <div class="panel-body">
+               <ul class="icon-list">
+				<li class="xls"><a href="files/accountability-results/2021/2020-2021-Grad-Rate-5-Year-Aggregates.xlsx">Class of 2021 Five-Year Graduation Rate</a></li>
+				<li class="xls"><a href="files/accountability-results/2022/2021-2022-Grad-Rate-4-Year-Aggregates.xlsx">Class of 2022 Four-Year Graduation Rate</a></li>
+              </ul>
+               </div>
+               </div>
+               </div>
+              <!-- / accordion item -->	
+				<div class="panel panel-default">
+              <div class="panel-heading">
+              <h4 class="panel-title"> <a data-toggle="collapse" data-parent="#accordion" href="#collapseFourdab" class="collapsed">Cohort Class of 2022/2023</a> </h4>
+              </div>
+              <div id="collapseFourdab" class="panel-collapse collapse">
+              <div class="panel-body">
+               <ul class="icon-list">
+				<li class="xls"><a href="files/accountability-results/2022/Class-of-2022-Five-Year-Graduation-Rate.xlsx">Class of 2022 Five-Year Graduation Rate</a></li>
+				<li class="xls"><a href="files/accountability-results/2023/Class-of-2023-Four-Year-Graduation-Rate.xlsx">Class of 2023 Four-Year Graduation Rate</a></li>
+              </ul>
+               </div>
+               </div>
+               </div>
+              <!-- / accordion item -->
+			  <div class="panel panel-default">
+              <div class="panel-heading">
+              <h4 class="panel-title"> <a data-toggle="collapse" data-parent="#accordion" href="#collapseFivedab" class="collapsed">Cohort Class of 2023/2024</a> </h4>
+              </div>
+              <div id="collapseFivedab" class="panel-collapse collapse">
+              <div class="panel-body">
+               <ul class="icon-list">
+				<li class="xls"><a href="files/accountability-results/2023/Class-of-2023-Five-Year-Graduation-Rate.xlsx">Class of 2023 Five-Year Graduation Rate</a></li>
+				<li class="xls"><a href="files/accountability-results/2024/Class-of-2024-Four-Year-Graduation-Rate.xlsx">Class of 2024 Four-Year Graduation Rate</a></li>
+              </ul>
+               </div>
+               </div>
+               </div>
+              <!-- / accordion item -->
+                    </div>
+                  </li>
+                </ul>
+              </div>
+			  <!-- /panel-item -->
+			 <div class="usa-accordion-bordered">
+            <ul class="usa-unstyled-list">
+              <li>
+              <button class="usa-button-unstyled" aria-expanded="false" aria-controls="collapsible-naep"><abbr title="National Assessment of Educational Progress">NAEP</abbr></button>
+              <div id="collapsible-naep" aria-hidden="true" class="usa-accordion-content">
+              <ul class="icon-list">
+              <li class="xls"><a href="../naep/files/general/naep-2022/2022-NAEP-report-card-ESSA.xlsx"><abbr title="National Assessment of Educational Progress">NAEP</abbr> 2022 Report Card</a></li>
+			  </ul>
+              <!-- / accordion item -->
+                    </div>
+                  </li>
+                </ul>
+              </div>
+			  <!-- /panel-item -->
+			<div class="usa-accordion-bordered">
+            <ul class="usa-unstyled-list">
+              <li>
+              <button class="usa-button-unstyled" aria-expanded="false" aria-controls="collapsible-DURC">Results Underlying the Report Card (Continuously Enrolled Students)</button>
+              <div id="collapsible-DURC" aria-hidden="true" class="usa-accordion-content">
+              <ul class="icon-list">
+              <li class="xls"><a href="files/report-card/2023-2024-Report-Card-Underlying-Results-Enrollment.xlsx">2023-2024 Report Card Underlying Results &amp; Enrollment</a><br>
+			  <small>This file is large and may not open in your browser. <strong>TO VIEW:</strong> Right-click the link and select "Save link as..." to download to your computer.</small></li>
+			  <li class="xls"><a href="files/report-card/2021-2022-Report-Card-Underlying-Data.xlsx">2021-2022 Report Card Underlying Results (Continuously Enrolled Students)</a><br>
+			  <small>This file is large and may not open in your browser. <strong>TO VIEW:</strong> Right-click the link and select "Save link as..." to download to your computer.</small></li>
+			  <li class="xls"><a href="files/report-card/2021-22-Report-Card-Underlying-Enrollment-Data.xlsx">2021-2022 Report Card Underlying Enrollment Results (All Students)</a><br>
+			  <small>This file is large and may not open in your browser. <strong>TO VIEW:</strong> Right-click the link and select "Save link as..." to download to your computer.</small></li>
+			  <li class="xls"><a href="files/report-card/2022-2023-Report-Card-Continually-Enrolled-Students.xlsx">2022-2023 Report Card Underlying Results &amp; Enrollment (Continuously Enrolled Students)</a><br>
+			  <small>This file is large and may not open in your browser. <strong>TO VIEW:</strong> Right-click the link and select "Save link as..." to download to your computer.</small></li>
+			  </ul>
+              <!-- / accordion item -->
+                    </div>
+                  </li>
+                </ul>
+              </div>
+			  <!-- /panel-item -->
+			<div class="usa-accordion-bordered">
+            <ul class="usa-unstyled-list">
+              <li>
+              <button class="usa-button-unstyled" aria-expanded="false" aria-controls="collapsible-ASI">School Identification and Recognition</button>
+              <div id="collapsible-ASI" aria-hidden="true" class="usa-accordion-content">
+			  <div class="panel panel-default">
+              <div class="panel-heading">
+              <h4 class="panel-title"> <a data-toggle="collapse" data-parent="#accordion" href="#collapseSIRSIS" class="collapsed"><abbr title="Continuous Support and Improvement">CSI</abbr> Allocations</a> </h4>
+              </div>
+              <div id="collapseSIRSIS" class="panel-collapse collapse">
+              <div class="panel-body">
+               <ul class="icon-list">
+				<li class="xls"><a href="../../federal-programs/sis/files/csi/2023-2024-CSI-UP-Allocations-Use-of-Funds.xlsx"> 2023-2024 CSI Up Allocations &amp; Use of Funds</a></li>
+			   <li class="xls"><a href="../../federal-programs/sis/files/csi/2022-2023-CSI-UP-Allocations-Use-of-Funds.xlsx"> 2022-2023 CSI Up Allocations &amp; Use of Funds</a></li>
+				<li class="xls"><a href="../../federal-programs/sis/files/csi/2021-2022-CSI-UP-Allocations-and-Use-of-Funds.xlsx"> 2021-2022 CSI Up Allocations &amp; Use of Funds</a></li>	
+                <li class="xls"><a href="../../federal-programs/sis/files/csi/2019-2020-School-Improvement-CSI-UP-and-CSI-Grad-Allocations.xlsx"> 2019-2020 CSI Up &amp; CSI Grad Allocations</a></li>
+				<li class="xls"><a href="../../federal-programs/sis/files/csi/2018-2019-School-Improvement-CSI-UP-Allocations.xlsx"> 2018-2019 CSI Up Allocations</a></li>
+              </ul>
+               </div>
+               </div>
+               </div>
+              <!-- / accordion item -->
+			  <div class="panel panel-default">
+              <div class="panel-heading">
+              <h4 class="panel-title"> <a data-toggle="collapse" data-parent="#accordion" href="#collapseSIR23" class="collapsed">2023 Identifiers</a> </h4>
+              </div>
+              <div id="collapseSIR23" class="panel-collapse collapse">
+              <div class="panel-body">
+               <ul class="icon-list">
+				<li class="xls"><a href="files/accountability-results/2023/2023-TSI-and-ATSI-Identifications.xlsx">2023 <abbr title="Targeted Support &amp; Improvement">TSI</abbr> and <abbr title="Additional Targeted Support &amp; Improvement">ATSI</abbr> Identified Schools</a></li>
+				<li class="xls"><a href="files/accountability-results/2023/2022-2023-Top-Performer-Schools.xlsx">2023 Top Performer Schools</a></li>
+				</ul>
+               </div>
+               </div>
+               </div>
+              <!-- / accordion item -->	  
+          	  <div class="panel panel-default">
+              <div class="panel-heading">
+              <h4 class="panel-title"> <a data-toggle="collapse" data-parent="#accordion" href="#collapseSIR22" class="collapsed">2022 Identifiers</a> </h4>
+              </div>
+              <div id="collapseSIR22" class="panel-collapse collapse">
+              <div class="panel-body">
+               <ul class="icon-list">
+				<li class="xls"><a href="files/accountability-results/2022/2021-2022-CSI-UP-Identified-Schools.xlsx">2022 CSI Up Schools</a></li>
+				<li class="xls"><a href="files/accountability-results/2022/2021-2022-CSI-Grad-Identified-Schools.xlsx">2022 CSI Grad Schools</a></li>
+				<li class="xls"><a href="files/accountability-results/2022/2021-2022-TSI-and-ATSI-Identified-Schools.xlsx">2022 <abbr title="Targeted Support &amp; Improvement">TSI</abbr> and <abbr title="Additional Targeted Support &amp; Improvement">ATSI</abbr> Identified Schools</a></li>
+				<li class="xls"><a href="files/accountability-results/2022/2021-2022-Goal-Maker-Schools.xlsx">2022 Goal Maker Schools</a></li>
+				<li class="xls"><a href="files/accountability-results/2022/2021-2022-Top-Performer-Schools.xlsx">2022 Top Performer Schools</a></li>
+				</ul>
+               </div>
+               </div>
+               </div>
+              <!-- / accordion item -->
+			  <div class="alert alert-note" role="alert" aria-atomic="true">
+			  <p><strong>Note:</strong> Due to disruptions caused by COVID-19, school identification and recognition were paused for 2020 and 2021.</p>
+			  </div>
+              <div class="panel panel-default">
+              <div class="panel-heading">
+              <h4 class="panel-title"> <a data-toggle="collapse" data-parent="#accordion" href="#collapseSIR" class="collapsed">2019 Identifiers</a> </h4>
+              </div>
+              <div id="collapseSIR" class="panel-collapse collapse">
+              <div class="panel-body">
+               <ul class="icon-list">
+				<li class="xls"><a href="files/accountability-results/2019/2019-Accountability-Identification.xlsx">2019 Accountability Identification</a></li>
+				<li class="xls"><a href="files/accountability-results/2019/2019-Accountability-Recognition.xlsx">2019 Accountability Recognition</a></li>
+				</ul>
+               </div>
+               </div>
+               </div>
+              <!-- / accordion item -->
+			  <div class="panel panel-default">
+              <div class="panel-heading">
+              <h4 class="panel-title"> <a data-toggle="collapse" data-parent="#accordion" href="#collapseSIRThree" class="collapsed">2018 Identifiers</a> </h4>
+              </div>
+              <div id="collapseSIRThree" class="panel-collapse collapse">
+              <div class="panel-body">
+               <ul class="icon-list">
+                <li class="xls"><a href="files/accountability-results/2018/Schools-identified-for-comprehensive-support-and-improvement.xls">2018 CSI Up Schools</a>
+				<li class="xls"><a href="files/accountability-results/2018/Schools-identified-for-grad-rate-less-than-67-percent.xls">2018 CSI Grad Schools</a></li></li>
+				<li class="pdf"><a href="files/accountability-results/2018/2018-Targeted-Support-and-Improvement-Summary.pdf" target="_blank">2018 <abbr title="Targeted Support &amp; Improvement">TSI</abbr> Summary</a></li>
+				<li class="xls"><a href="files/accountability-results/2018/2018-TSI-Measure-Summary.xlsx">2018 <abbr title="Targeted Support &amp; Improvement">TSI</abbr> Measure Summary</a></li>
+				<li class="pdf"><a href="files/accountability-results/2018/2018-ATSI-Summary.pdf" target="_blank">2018 <abbr title="Additional Targeted Support &amp; Improvement">ATSI</abbr> Summary</a></li>
+				<li class="xls"><a href="files/accountability-results/2018/2018-ATSI-Identifications.xlsx">2018 <abbr title="Additional Targeted Support &amp; Improvement">ATSI</abbr> Identifications</a></li>
+				<li class="xls"><a href="files/accountability-results/2018/Top-Performers-K-8-Schools.xls">2018 K-8 Schools Top Performers</a></li>
+				<li class="xls"><a href="files/accountability-results/2018/Top-Performers-High-Schools.xls">2018 High Schools Top Performers</a></li>
+				<li class="xls"><a href="files/accountability-results/2018/Top-Performers-Alternative-High-Schools.xls">2018 Alternative High Schools Top Performers</a></li>
+				<li class="xls"><a href="files/accountability-results/2018/2018-Top-Performers-in-Accountability-Framework-Indicators.xlsx">2018 Top Performers in Accountability Framework Indicators</a></li>
+				<li class="xls"><a href="files/accountability-results/2018/Goal-Makers-K-8-Schools.xls">2018 K-8 Schools Goal Makers</a></li>
+				<li class="xls"><a href="files/accountability-results/2018/Goal-Makers-High-Schools.xls">2018 High Schools Goal Makers</a></li>
+				<li class="xls"><a href="files/accountability-results/2018/2018-Schools-With-Student-Groups-Making-Interim-Progress-on-State-Long-Term-Goals.xlsx">2018 Schools With Student Groups Making Interim Progress on State Long Term Goals</a></li>
+				</ul>
+               </div>
+               </div>
+               </div>
+              <!-- / accordion item -->
+                    </div>
+                  </li>
+                </ul>
+			 </div>
+			 <div class="usa-accordion-bordered">
+            <ul class="usa-unstyled-list">
+              <li>
+              <button class="usa-button-unstyled" aria-expanded="false" aria-controls="collapsible-tq">Teacher Quality</button>
+              <div id="collapsible-tq" aria-hidden="true" class="usa-accordion-content">
+              <ul class="icon-list">
+			  <li class="xls"><a href="files/general/teacher-quality/2024-Teacher-Quality-Data.xlsx">2024 Teacher Quality Data</a></li>
+			  </ul>
+              <!-- / accordion item -->
+                    </div>
+                  </li>
+                </ul>
+              </div>
+			  <!-- /panel-item --><br>
+			  <div class="alert alert-note" role="alert" aria-atomic="true">
+          	  <p><strong>Note:</strong> To request results not listed, choose one of the following options:</p>
+				 <ol>
+				   <li>Members of the general public: <a href="../../communications/public-records-requests.html" class="link-special">Submit a Public Records Request</a></li>
+				   <li>Districts &amp; Schools: <a href="https://apps.sde.idaho.gov/Otis/Home/Home" class="link-special" target="_blank">Create an OTIS ticket</a></li></ol><br>
+				 <p>Please direct requests for individual assessment results and transcripts/diplomas to the district or charter school office of the Idaho school you or your child last attended. We will not be able to disclose student-level results.</p>
+			  </div>
+			<!-- /.panel-item -->
+			<h5 class="tab">Accountability Framework and School Identification</h5>
+			<div class="usa-accordion-bordered">
+            <ul class="usa-unstyled-list">
+              <li>
+              <button class="usa-button-unstyled" aria-expanded="false" aria-controls="collapsible-RU">Business Rules</button>
+              <div id="collapsible-RU" aria-hidden="true" class="usa-accordion-content">
+              <ul class="icon-list">
+				<li class="pdf"><a href="files/general/business-rules/2024-Accountability-Business-Rules.pdf" target="_blank">2024 Accountability &amp; Reporting Business Rules</a></li>  
+                <li class="pdf"><a href="files/general/business-rules/2023-Accountability-and-Reporting-Business-Rules.pdf" target="_blank">2023 Accountability &amp; Reporting Business Rules</a></li>
+				<li class="pdf"><a href="files/general/2022-Accountability-And-Reporting-Business-Rules.pdf" target="_blank">2022 Accountability &amp; Reporting Business Rules</a></li>
+				<li class="pdf"><a href="files/general/2021-Accountability-And-Reporting-Business-Rules.pdf" target="_blank">2021 Accountability &amp; Reporting Business Rules</a></li>
+              </ul>
+                    </div>
+                  </li>
+                </ul>
+              </div>
+              <!-- /.panel-item -->
+			 <div class="usa-accordion-bordered">
+            <ul class="usa-unstyled-list">
+              <li>
+              <button class="usa-button-unstyled" aria-expanded="false" aria-controls="collapsible-BRS">Business Rule Summaries</button>
+              <div id="collapsible-BRS" aria-hidden="true" class="usa-accordion-content">
+			  <div class="panel panel-default">
+              <div class="panel-heading">
+              <h4 class="panel-title"> <a data-toggle="collapse" data-parent="#accordion" href="#collapseIS2023" class="collapsed">2023 Summaries</a> </h4>
+              </div>
+              <div id="collapseIS2023" class="panel-collapse collapse">
+              <div class="panel-body">
+               <ul class="icon-list">
+				<li class="pdf"><a href="files/accountability-results/2023/2023-2024-Guidance-Engagement-and-Satisfaction-Surveys.pdf" target="_blank">2023-2024 Engagement and Satisfaction Surveys Guidance </a></li>
+				</ul>
+               </div>
+               </div>
+               </div>
+              <!-- / accordion item -->	
+			  <div class="panel panel-default">
+              <div class="panel-heading">
+              <h4 class="panel-title"> <a data-toggle="collapse" data-parent="#accordion" href="#collapseIS2022" class="collapsed">2022 Summaries</a> </h4>
+              </div>
+              <div id="collapseIS2022" class="panel-collapse collapse">
+              <div class="panel-body">
+               <ul class="icon-list">
+				<li class="pdf"><a href="files/accountability-results/2022/School-Accountability-2022.pdf" target="_blank">2022-2023 School Accountability</a></li>
+				<li class="pdf"><a href="files/general/business-rules/Student-Engagement-2022-23.pdf" target="_blank">2022-2023 Student Engagement</a></li>
+				<li class="pdf"><a href="files/general/business-rules/Parent-Engagement-2022-23.pdf" target="_blank">2022-2023 Parent Engagement, Satisfaction</a></li>
+				<li class="pdf"><a href="files/general/business-rules/Staff-Engagement-2022-23.pdf" target="_blank">2022-2023 Staff Engagement, Satisfaction</a></li>
+				</ul>
+               </div>
+               </div>
+               </div>
+              <!-- / accordion item -->	  
+			  <div class="panel panel-default">
+              <div class="panel-heading">
+              <h4 class="panel-title"> <a data-toggle="collapse" data-parent="#accordion" href="#collapseIS2020" class="collapsed">2020 Summaries</a> </h4>
+              </div>
+              <div id="collapseIS2020" class="panel-collapse collapse">
+              <div class="panel-body">
+               <ul class="icon-list">
+				<li class="pdf"><a href="files/accountability-results/2020/Advanced-Math-2020.pdf" target="_blank">Advanced Math</a></li>
+				<li class="pdf"><a href="files/accountability-results/2020/College-and-Career-Readiness-2020.pdf" target="_blank">College and Career Readiness</a></li>
+				<li class="pdf"><a href="files/accountability-results/2020/English-Language-Proficiency-2020.pdf" target="_blank">English Language Proficiency</a></li>
+				<li class="pdf"><a href="files/accountability-results/2020/Graduation-Rate-2020.pdf" target="_blank">Graduation Rate</a></li>
+				<li class="pdf"><a href="files/accountability-results/2020/Group-Achievement-2020.pdf" target="_blank">Group Achievement</a></li>
+				<li class="pdf"><a href="files/accountability-results/2020/Growth-Toward-English-Language-Proficiency-2020.pdf" target="_blank">Growth Toward English Language Proficiency</a></li>
+				<li class="pdf"><a href="files/accountability-results/2020/Idaho-Reading-Indicator-2020.pdf" target="_blank">Idaho Reading Indicator</a></li>
+				<li class="pdf"><a href="files/accountability-results/2020/School-Accountability-2020.pdf" target="_blank">2020-2021 School Accountability</a></li>
+				</ul>
+               </div>
+               </div>
+               </div>
+              <!-- / accordion item -->
+			  <div class="panel panel-default">
+              <div class="panel-heading">
+              <h4 class="panel-title"> <a data-toggle="collapse" data-parent="#accordion" href="#collapseSix" class="collapsed">2019 Summaries</a> </h4>
+              </div>
+              <div id="collapseSix" class="panel-collapse collapse">
+              <div class="panel-body">
+               <ul class="icon-list">
+                <li class="pdf"><a href="files/accountability-results/2019/Academic-Achievement.pdf" target="_blank">Academic Achievement</a></li>
+				<li class="pdf"><a href="files/accountability-results/2019/Academic-Growth.pdf" target="_blank">Academic Growth</a></li>
+				<li class="pdf"><a href="files/accountability-results/2019/Advanced-Math.pdf" target="_blank">Advanced Math</a></li>
+				<li class="pdf"><a href="files/accountability-results/2019/College-and-Career-Readiness.pdf" target="_blank">College and Career Readiness</a></li>
+				<li class="pdf"><a href="files/accountability-results/2019/English-Language-Proficiency.pdf" target="_blank">English Language Proficiency</a></li>
+				<li class="pdf"><a href="files/accountability-results/2019/Graduation-Rate.pdf" target="_blank">Graduation Rate</a></li>
+				<li class="pdf"><a href="files/accountability-results/2019/Group-Achievement.pdf" target="_blank">Group Achievement</a></li>
+				<li class="pdf"><a href="files/accountability-results/2019/Growth-Toward-English-Language-Proficiency.pdf" target="_blank">Growth Toward English Language Proficiency</a></li>
+				<li class="pdf"><a href="files/accountability-results/2019/Idaho-Reading-Indicator.pdf" target="_blank">Idaho Reading Indicator</a></li>
+				<li class="pdf"><a href="files/accountability-results/2019/Parent-Engagement.pdf" target="_blank">Parent Engagement</a></li>
+				<li class="pdf"><a href="files/accountability-results/2019/School-Accountability.pdf" target="_blank">School Accountability</a></li>
+				<li class="pdf"><a href="files/accountability-results/2019/Staff-Engagement.pdf" target="_blank">Staff Engagement</a></li>
+				<li class="pdf"><a href="files/accountability-results/2019/Student-Engagement.pdf" target="_blank">Student Engagement</a></li>
+				</ul>
+               </div>
+               </div>
+               </div>
+              <!-- / accordion item -->
+			  <div class="panel panel-default">
+              <div class="panel-heading">
+              <h4 class="panel-title"> <a data-toggle="collapse" data-parent="#accordion" href="#collapseFive" class="collapsed">2018 Summaries</a> </h4>
+              </div>
+              <div id="collapseFive" class="panel-collapse collapse">
+              <div class="panel-body">
+               <ul class="icon-list">
+                <li class="pdf"><a href="files/accountability-results/2018/Academic-Achievement.pdf" target="_blank">Academic Achievement</a></li>
+				<li class="pdf"><a href="files/accountability-results/2018/Academic-Growth.pdf" target="_blank">Academic Growth</a></li>
+				<li class="pdf"><a href="files/accountability-results/2018/Advanced-Math.pdf" target="_blank">Advanced Math</a></li>
+				<li class="pdf"><a href="files/accountability-results/2018/College-and-Career-Readiness.pdf" target="_blank">College and Career Readiness</a></li>
+				<li class="pdf"><a href="files/accountability-results/2018/Graduation-Rate.pdf" target="_blank">Graduation Rate</a></li>
+				<li class="pdf"><a href="files/accountability-results/2018/Growth-Toward-English-Language-Proficiency.pdf" target="_blank">Growth Toward English Language Proficiency</a></li>
+				<li class="pdf"><a href="files/accountability-results/2018/Idaho-Reading-Indicator.pdf" target="_blank">Idaho Reading Indicator</a></li>
+				<li class="pdf"><a href="files/accountability-results/2018/School-Accountability.pdf" target="_blank">2018-2019 School Accountability</a></li>
+				<li class="pdf"><a href="files/accountability-results/2018/Student-Engagement.pdf" target="_blank">Student Engagement</a></li>
+				</ul>
+               </div>
+               </div>
+               </div>
+              <!-- / accordion item -->
+                    </div>
+                  </li>
+                </ul>
+              </div>
+			 <div class="usa-accordion-bordered">
+            <ul class="usa-unstyled-list">
+              <li>
+              <button class="usa-button-unstyled" aria-expanded="false" aria-controls="collapsible-DRR">Data Redaction Rules and Authority</button>
+              <div id="collapsible-DRR" aria-hidden="true" class="usa-accordion-content">
+              <ul class="icon-list">
+				<li class="pdf"><a href="files/redaction-rules/Redaction-Rules-Document.pdf" target="_blank">Redaction Rules</a></li>  
+              </ul>
+                    </div>
+                  </li>
+                </ul>
+              </div>
+              <!-- /.panel-item -->
+			  <!-- /panel-item -->
+			 <h5 class="tab">Tools for Districts and Schools</h5>
+			  <div class="usa-accordion-bordered">
+            <ul class="usa-unstyled-list">
+              <li>
+              <button class="usa-button-unstyled" aria-expanded="false" aria-controls="collapsible-PRAL">Percentile Ranks &amp; Achievement Levels</button>
+              <div id="collapsible-PRAL" aria-hidden="true" class="usa-accordion-content">
+              <ul class="icon-list">
+				<li class="xls"><a href="files/growth-tools/percentile-ranks/ISAT-Percentiles-Ranks-Ach-Levels.xlsx" target="_blank">2024 <abbr title=" Idaho Standards Achievement Test">ISAT</abbr> Percentile Ranks &amp; Achievement Levels</a></li>
+				<li class="xls"><a href="files/growth-tools/percentile-ranks/ISAT-Growth-Percentile-Summary.xlsx" target="_blank">2024 <abbr title=" Idaho Standards Achievement Test">ISAT</abbr> Growth Percentile Summary</a></li>
+              </ul>
+                    </div>
+                  </li>
+                </ul>
+              </div>
+              <!-- /.panel-item -->
+			  <div class="usa-accordion-bordered">
+              <ul class="usa-unstyled-list">
+              <li>
+              <button class="usa-button-unstyled" aria-expanded="false" aria-controls="collapsible-SCT">Similar District and School Comparison Tools</button>
+              <div id="collapsible-SCT" aria-hidden="true" class="usa-accordion-content">
+			  <p>This tool is for school administrators to use in identifying schools/districts with similar characteristics with whom they can share ideas and strategies for success as part of a robust community of practice.</p>
+			  <p>The included measures capture only a portion of a school or district’s characteristics and academic achievement. Consequently, this tool is not intended for ranking schools or districts, or fully describing their performance.</p>
+			  <p>All underlying data are from the <a href="https://idahoschools.org" target="_blank" class="link-special">Idaho Report Card</a> and incorporate Idaho’s accountability business rules and associated blurring and redaction decisions.</p> 					  
+			  <p>Please be aware the tool is hosted on Tableau’s servers and users may encounter outages or access limitations during times of heavy usage. Questions? Email <a href="mailto:assessments@sde.idaho.gov" class="link-special">assessments@sde.idaho.gov</a>.</p>
+              <ul class="icon-list">
+				<li class="ext"><a href="https://public.tableau.com/views/IdahoSimilarSchoolsTOOL-2022Data/SimilarSchools?:language=en-US&:display_count=n&:origin=viz_share_link" target="_blank">2022 Similar Schools Tool</a></li>
+				<li class="ext"><a href="https://public.tableau.com/profile/idaho.assessment#!/vizhome/IdahoSimilarSchoolsExplorer-2019Data/SimilarSchools" target="_blank">2019 Similar Schools Tool</a></li>
+				<li class="pdf"><a href="files/comparison-tools/2022-User-Guide-for-Similar-Schools-Tool.pdf" target="_blank">User Guide for Similar Schools Tool</a></li>
+              </ul>
+                    </div>
+                  </li>
+                </ul>
+              </div>
+              <!-- /.panel-item -->
+            </div>
+            <!-- FAQ -->
+           <div role="tabpanel" class="tab-pane" id="faq">
+              <h4 class="tab">Frequently Asked Questions</h4>
+              <p>No content available.</p>
+              <!-- /.containter --> 
+            </div>
+            <!-- TRAINING -->
+            <div role="tabpanel" class="tab-pane" id="training">
+              <h4 class="tab">Training Resources</h4>
+              <p>No content available.</p>
+              <!-- /event item --> 
+            </div>
+            <!-- LINKS -->
+            <div role="tabpanel" class="tab-pane" id="links">
+              <h4 class="tab">Resource Links</h4>
+              <ul class="icon-list">
+				  <li><strong>Child Nutrition</strong></li>
+				  <li class="sde"><a href="https://apps.sde.idaho.gov/cnpeligibility" target="_blank" class="link-special">Free and Reduced Lunch Eligibility Report</a></li>
+				  <li>&nbsp;</li>
+				  <li><strong>Federal Programs</strong></li>
+				  <li class="sde"><a href="https://www.sde.idaho.gov/federal-programs/sis/" target="_blank" class="link-special">School Improvement Plan</a></li>
+				  <li>&nbsp;</li>
+				  <li><strong>Idaho State Board of Education</strong></li>
+				  <li class="ext"><a href="https://boardofed.idaho.gov/k-12-education/school-district-charter-school-planning-training/" target="_blank" class="link-special">Continuous Improvement Plan</a></li>
+				  <li>&nbsp;</li>
+				  <li><strong>Public School Finance</strong></li>
+				  <li class="sde"><a href="https://sde.idaho.gov/finance/#attendance" target="_blank" class="link-special">Attendance and Enrollment</a></li>
+				</ul>
+              <!--/links item --> 
+            </div>
+          </div>
+        </div>
+        <!-- /links --> 
+      </section>
+      <!-- /.col-md-9 -->
+      <aside id="sidebar-area" class="sidebar single col-md-3">
+        <div class="widgets-container">
+          <h5 class="special-title-dept"><a href="../index.html">Assessment &amp; Accountability &raquo;</a></h5>
+          <div class="tringle-list">
+            <ul class="icon-list">
+              <li><strong>Accountability</strong></li>
+              <li><a href="../../assessment/college">College Entrance Exams</a></li>
+              <li><a href="../../assessment/elpa">English Language Proficiency </a></li>
+              <li><a href="../../assessment/iri">Idaho Reading Indicator</a></li>
+              <li><a href="../../assessment/isat-cas">ISAT Comprehensive  System</a></li>
+              <li><a href="../../assessment/naep">National &amp; International </a></li>
+              <li><a href="../../assessment/sped">Idaho Alternate Assessment</a></li>
+            </ul>
+          </div>
+          <hr class="thin" />
+          <ul class="icon-list">
+			<li><span class="fa fa-calendar"></span>  <a href="../events.html"><strong>Events &raquo;</strong></a></li> 
+			<li><span class="fa fa-align-center"></span> <a href="../archives.html"><strong> Newsletter Archive &raquo;</strong></a></li>
+            <li><i class="fa fa-align-center"></i> <a href="../portals-platforms.html"> <strong>Portals &amp; Platforms &raquo;</strong></a></li>
+			<!--<li><span class="fa fa-calendar-plus-o"></span> <a href="../training-request.html"> <strong>Training Request Form &raquo;</strong></a></li>-->
+			<li><i class="fa fa-hand-o-right"></i> <a href="../../topics/consolidated-plan/"> <strong>Consolidated State Plan &raquo;</strong></a></li>
+			<li><i class="fa fa-graduation-cap"></i> <a href="https://www.sde.idaho.gov/assessment/report-card.html"> <strong>Report Card &raquo;</strong></a></li>
+			<li><i class="fa fa-book"></i> <a href="https://apps.sde.idaho.gov/reportcard/"> <strong>Report Card Descriptions &raquo;</strong></a></li>  
+          </ul>
+          <div class="special-margin-large"></div>
+          <div class="contact-info">
+            <h5 class="special-title-dept">Contact Details</h5>
+            <ul class="icon-list">
+			  <li><i class="fa fa-user"></i> <strong>Ayaka Nukui</strong></li>
+              <li><i class="fa fa-arrow-circle-right"></i> Director</li>
+              <li><i class="fa fa-phone"></i> (208) 332-6926</li>
+              <li><i class="fa fa-envelope"></i> <a href="mailto:anukui@sde.idaho.gov">anukui@sde.idaho.gov</a></li>
+              <li>&nbsp;</li>
+              <li><a href="../staff.html"> <strong>Staff &raquo; </strong></a></li>
+            </ul>
+          </div>
+        </div>
+        <!-- /.widget-container --> 
+      </aside>
+    </div>
+    <!-- /.row --> 
+  </div>
+  <!-- /.container --> 
+  
+</main>
+<!-- /#main-content --> 
+
+<!-- footer
+========================================================================== --> 
+	<footer id="main-footer" role="contentinfo" aria-label="footer">
+  <div id="footer-widget-area">
+    <div class="container">
+      <div class="footer-widget col-md-3"> 
+        <!-- About SDE -->
+        <h6 class="footer">About Us</h6>
+        <div class="about-us-widget-container">
+          <div class="about-content">
+            <p>The Idaho Department of Education is a government agency supporting schools and students. We are responsible for implementing policies, distributing funds, administering statewide assessments, licensing educators, and &#8230; </p>
+            <p><a href="https://www.sde.idaho.gov/about.html" title="About Us Webpage Link" class="link-special">Read About Us <span class="fa fa-long-arrow-right"></span></a></p>
+          </div>
+          <!-- /.about-content --> 
+        </div>
+        <!-- /.about-us-widget --> 
+      </div>
+      <!-- /footer-widget -->
+ 		<div class="footer-widget col-md-3"> 
+        <!-- Contact -->
+        <h6 class="footer">Contact Us</h6>
+        <p>Idaho Department of Education<br>
+          650 West State Street<br>
+          Boise, ID 83702<br>
+          <span class="fa fa-phone"></span> (208) 332-6800<br>
+          <span class="fa fa-print"></span> (208) 334-2228<br>
+          <span class="fa fa-envelope"></span> <a href="mailto:info@sde.idaho.gov?subject=Website-Information" class="link-special">info@sde.idaho.gov</a><br>
+        </p>
+        <p><a href="https://sde.idaho.gov/contact.html" title="Contact Us Webpage Link" class="link-special">Contact Details <span class="fa fa-long-arrow-right"></span></a><br>
+		<a href="https://sde.idaho.gov/superintendent/scheduling-request.html" title="Idaho Department of Education Superintendent Scheduling Request Form" class="link-special">Scheduling Request Form <span class="fa fa-long-arrow-right"></span></a><br>
+		<a href="https://sde.idaho.gov/communications/public-records-requests.html" title="Idaho Department of Education Public Records Request Form" class="link-special">Submit Public Records Request <span class="fa fa-long-arrow-right"></span> </a></p>
+      </div>
+      <!-- /.contact-form-widget -->  		
+      <div class="footer-widget col-md-6"> 
+		<h6 class="footer">Helpful Links</h6>
+        <!-- SDE Links -->
+      <div class="footer-widget col-md-6"> 		  
+        <div class="tringle3-list">
+          <ul>
+            <li><a href="https://sde.idaho.gov/accessibility.html">Accessibility</a></li>
+            <li><a href="https://sde.idaho.gov/civil-rights.html">Civil Rights</a></li>
+            <li><a href="https://sde.idaho.gov/contracting-opportunities/" target="_parent">Contracting Opportunities</a></li>
+            <li><a href="https://cybersecurity.idaho.gov/" target="_blank">Cybersecurity</a></li>
+            <li><a href="https://sde.idaho.gov/ed-directory.html" target="_parent">Educational Directory</a></li>			  
+            <li><a href="https://sde.idaho.gov/employee_web/" target="_parent">Employee Resources</a></li>
+			<li><a href="https://calendar.google.com/calendar/embed?src=idsdecalendar%40gmail.com&ctz=America%2FBoise" target="_parent">Events for Superintendents</a></li>
+          </ul>
+          <br>
+        </div>
+        <!-- /.tringle3-list --> 
+      </div>
+      <!-- ./helpful links --> 		  
+      <div class="footer-widget col-md-6"> 
+        <!-- Helpful links -->
+        <div class="tringle3-list">
+          <ul>
+            <li><a href="http://sde.idaho.gov/events/awards-grants.html" target="_blank">Awards, Grants &amp; Recognition</a></li>
+			<li><a href="https://cte.idaho.gov/" target="_blank">Career &amp; Technical Education</a></li>			  
+            <li><a href="https://www.viethconsulting.com/members/classifieds4.php?org_id=IASA" target="_blank">Idaho Education Jobs</a></li>
+            <li><a href="https://boardofed.idaho.gov/" target="_blank">State Board of Education</a></li>
+			<li><a href="https://sde.idaho.gov/job-openings/" target="_parent">Department of Education Jobs</a></li>
+            <li><a href="https://www.idaho.gov/" target="_blank">State of Idaho</a></li>
+          </ul>
+          <br>
+        </div>
+        <!-- /.tringle3-list --> 
+      </div>
+      <!-- ./helpful links --> 
+	  </div>
+    <!-- /.container --> 
+  </div>
+  <!-- /#footer-widget-area -->
+  <div id="copyright-text">
+    <div class="container">
+      <div class="row">
+        <div class="col-sm-12 col-lg-3">
+        <p pull-left><a href="http://www.sde.idaho.gov/privacy.html">Privacy</a> | <a href="https://www.sde.idaho.gov/feedback.html">Site Feedback</a>  | <a href="https://www.sde.idaho.gov/sitemap.html">Sitemap</a></p>
+        </div>
+        <!-- /copyright -->			  
+        <div class="col-sm-12 col-lg-6">
+        <p pull-left><small>Anyone suspecting fraud, waste or abuse involving Department of Education funds or programs should call (1-800-MIS-USED) or write (<a href="mailto:oig.hotline@ed.gov" class="link-special">oig.hotline@ed.gov</a>) the Inspector General's Hotline.</small></p>
+        </div>
+        <!-- /fraud -->
+        <div class="col-sm-12 col-lg-3">
+          <ul class="social-icons pull-right" style="margin-right:25px;">
+            <li class="social-icon newsletter"><a href="https://idaho.us19.list-manage.com/subscribe?u=76a7e4d55542b992f9a5fb0a3&id=a5b8e0bb85" title="Idaho Department of Education Newsletter" target="_blank"><span class="icon-name">Newsletter</span></a></li>
+			<li class="social-icon facebook"><a href="https://facebook.com/IDSDE/" title="Idaho Department of Education Facebook" target="_blank"><span class="icon-name">Facebook</span></a></li>
+            <li class="social-icon linkedin"><a href="https://linkedin.com/company/idaho-state-department-of-education" title="Idaho Department of Education Linkedin" target="_blank"><span class="icon-name"> Linkedin</span></a></li>
+            <li class="social-icon twitter"><a href="https://twitter.com/IdDeptOfEd" title="Idaho Department of Education Twitter" target="_blank"><span class="icon-name">Twitter</span></a></li>
+			<li class="social-icon instagram"><a href="https://instagram.com/idaho.sde/" title="Idaho Department of Education Instagram," target="_blank"><span class="icon-name">Instagram</span></a></li>
+            <li class="social-icon YouTube"><a href="https://youtube.com/user/SDEIdaho" title="Idaho Department of Education YouTube" target="_blank"><span class="icon-name">YouTube</span></a></li>
+          </ul>		
+        </div>
+        <!-- /.social-icons --> 
+      </div>
+    </div>
+  </div>
+  </div>
+  <!-- /#copyright-text --> 
+</footer>
+<!-- /#main-footer --> 
+
+<!-- translate --> 
+<script type="text/javascript">
+function googleTranslateElementInit() {
+  new google.translate.TranslateElement({pageLanguage: 'en', includedLanguages: 'de,es,eu,fr,ja,ru,so,zh-CN,zh-TW', layout: google.translate.TranslateElement.InlineLayout.SIMPLE}, 'google_translate_element');
+}
+</script><script type="text/javascript" src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script> 
+<!-- /translate --> 
+
+<!--[if lt IE 9]>
+    <script src="//www.sde.idaho.gov/_assets/js/vendor/selectivizr-min.js"></script>
+    <script src="//www.sde.idaho.gov/_assets/js/vendor/respond.js"></script>
+    <script src="//www.sde.idaho.gov/_assets/js/vendor/rem.min.js"></script>
+  <![endif]--> 
+
+<!-- Include all compiled plugins (below), or include individual files as needed --> 
+<script src="//ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js" type="text/javascript"></script> 
+<script src="//www.sde.idaho.gov/_assets/js/bootstrap.min.js" type="text/javascript"></script> 
+<script src="//www.sde.idaho.gov/_assets/js/bootstrap.js"></script> 
+<script src="//www.sde.idaho.gov/_assets/js/skip.js"></script> 
+
+</body>
+</html>
