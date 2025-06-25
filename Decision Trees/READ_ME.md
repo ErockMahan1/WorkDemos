@@ -2,45 +2,50 @@
 
 ## Overview
 
-This project applies decision tree machine learning techniques to the specialty coffee industry. Using a real-world dataset, the analysis aims to identify and interpret the key factors that influence specialty coffee ratings and classifications. The project is structured as a Jupyter notebook and follows the typical data science workflow, from data preparation through model evaluation[1].
+This project applies decision tree machine learning techniques to the specialty coffee industry. Using a real-world dataset, the analysis aims to identify and interpret the key factors that influence specialty coffee ratings and classifications. The project is structured as a Jupyter notebook and follows the typical data science workflow, from data preparation through model evaluation.
 
 ## Concepts Explored
 
-- **Exploratory Data Analysis (EDA):**
-  - Investigated the distribution of coffee attributes and ratings.
-  - Explored relationships between features such as aroma, acidity, aftertaste, and overall coffee quality.
+* **Exploratory Data Analysis (EDA):**
 
-- **Feature Engineering and Selection:**
-  - Selected relevant sensory and physical characteristics for modeling.
-  - Considered the impact of features like aroma, aftertaste, acidity, and brewing method on specialty coffee classification.
+  * Investigated the distribution of coffee attributes and ratings.
+  * Explored relationships between features such as aroma, acidity, aftertaste, and overall coffee quality.
 
-- **Decision Tree Modeling:**
-  - Built classification models using decision tree algorithms to predict coffee quality or class based on input features.
-  - Visualized and interpreted the resulting decision trees to understand how decisions are made at each node.
+* **Feature Engineering and Selection:**
 
-- **Model Evaluation:**
-  - Assessed model performance using accuracy, confusion matrices, and cross-validation.
-  - Analyzed feature importance to determine which attributes most strongly influence coffee quality predictions.
+  * Selected relevant sensory and physical characteristics for modeling.
+  * Considered the impact of features like aroma, aftertaste, acidity, and brewing method on specialty coffee classification.
 
-- **Interpretation and Practical Insights:**
-  - Interpreted the decision paths and feature splits in the tree to provide actionable insights for coffee producers and marketers.
-  - Discussed the strengths and limitations of decision trees in the context of specialty coffee data.
+* **Decision Tree Modeling:**
+
+  * Built classification models using decision tree algorithms to predict coffee quality or class based on input features.
+  * Visualized and interpreted the resulting decision trees to understand how decisions are made at each node.
+
+* **Model Evaluation:**
+
+  * Assessed model performance using accuracy, confusion matrices, and cross-validation.
+  * Analyzed feature importance to determine which attributes most strongly influence coffee quality predictions.
+
+* **Interpretation and Practical Insights:**
+
+  * Interpreted the decision paths and feature splits in the tree to provide actionable insights for coffee producers and marketers.
+  * Discussed the strengths and limitations of decision trees in the context of specialty coffee data.
 
 ## Lessons Learned
 
-- **Feature Importance:**  
-  Sensory attributes such as aroma and aftertaste are often the most influential factors in predicting specialty coffee quality, aligning with findings in the coffee industry and academic literature[6][9].
+* **Feature Importance:**
+  Sensory attributes such as aroma and aftertaste are often the most influential factors in predicting specialty coffee quality, aligning with findings in the coffee industry and academic literature.
 
-- **Model Interpretability:**  
+* **Model Interpretability:**
   Decision trees offer clear, visual explanations for predictions, making them valuable for business stakeholders who need to understand and trust model outputs.
 
-- **Data Preparation Matters:**  
+* **Data Preparation Matters:**
   Careful preprocessing, including handling missing values and encoding categorical variables, is essential for building effective decision tree models.
 
-- **Limitations of Decision Trees:**  
+* **Limitations of Decision Trees:**
   While decision trees are easy to interpret, they can be sensitive to small changes in data and may overfit if not properly pruned or regularized. Ensemble methods like Random Forests can address some of these issues.
 
-- **Domain Knowledge is Key:**  
+* **Domain Knowledge is Key:**
   Understanding the coffee industry and the meaning of each attribute helps in selecting features and interpreting model results in a meaningful way.
 
 ## Conclusion

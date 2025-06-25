@@ -6,44 +6,49 @@ This project is an advanced case study focused on logistic regression, a fundame
 
 ## Concepts Explored
 
-- **Logistic Regression Theory and Application:**  
+* **Logistic Regression Theory and Application:**
   The project reviews the mathematical foundations of logistic regression, explaining how it models the probability of binary outcomes and why it is preferred for classification tasks.
 
-- **Data Preparation and Exploration:**  
-  - Loaded and explored the dataset, identifying key features and the target variable for classification.
-  - Performed data cleaning, handled missing values, and examined class distributions to ensure model validity.
+* **Data Preparation and Exploration:**
 
-- **Feature Engineering and Selection:**  
-  - Investigated the relationships between predictors and the target variable.
-  - Selected relevant features and addressed potential issues such as multicollinearity.
+  * Loaded and explored the dataset, identifying key features and the target variable for classification.
+  * Performed data cleaning, handled missing values, and examined class distributions to ensure model validity.
 
-- **Model Building:**  
-  - Built logistic regression models using Python libraries such as scikit-learn and statsmodels.
-  - Trained and tested models, tuning parameters as needed.
+* **Feature Engineering and Selection:**
 
-- **Model Evaluation:**  
-  - Evaluated model performance using classification metrics such as accuracy, precision, recall, F1-score, and the confusion matrix.
-  - Used ROC curves and AUC scores to assess the model's ability to distinguish between classes.
+  * Investigated the relationships between predictors and the target variable.
+  * Selected relevant features and addressed potential issues such as multicollinearity.
 
-- **Interpretation of Results:**  
-  - Interpreted logistic regression coefficients to understand the impact of each predictor on the probability of the outcome.
-  - Discussed the practical significance of model findings and considered how they could inform decision-making.
+* **Model Building:**
+
+  * Built logistic regression models using Python libraries such as scikit-learn and statsmodels.
+  * Trained and tested models, tuning parameters as needed.
+
+* **Model Evaluation:**
+
+  * Evaluated model performance using classification metrics such as accuracy, precision, recall, F1-score, and the confusion matrix.
+  * Used ROC curves and AUC scores to assess the model's ability to distinguish between classes.
+
+* **Interpretation of Results:**
+
+  * Interpreted logistic regression coefficients to understand the impact of each predictor on the probability of the outcome.
+  * Discussed the practical significance of model findings and considered how they could inform decision-making.
 
 ## Lessons Learned
 
-- **Importance of Data Quality:**  
+* **Importance of Data Quality:**
   Careful data cleaning and preprocessing are essential for building reliable classification models.
 
-- **Feature Selection Matters:**  
+* **Feature Selection Matters:**
   Including or excluding certain features can significantly affect model performance and interpretability.
 
-- **Model Evaluation is Multifaceted:**  
+* **Model Evaluation is Multifaceted:**
   Relying on a single metric (like accuracy) can be misleading, especially with imbalanced datasets. Using a combination of metrics provides a more complete picture of model performance.
 
-- **Interpretability of Logistic Regression:**  
+* **Interpretability of Logistic Regression:**
   Logistic regression offers clear insights into how features influence the probability of an outcome, making it valuable for applications where understanding model decisions is important.
 
-- **Limitations and Next Steps:**  
+* **Limitations and Next Steps:**
   Logistic regression assumes a linear relationship between predictors and the log-odds of the outcome. Exploring non-linear models or ensemble methods could further improve classification performance.
 
 ## Conclusion
