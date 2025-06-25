@@ -13,7 +13,7 @@ This project explores the concept and applications of cosine similarity, a funda
   * The formula is:
 
     $$
-    \text{Cosine Similarity} = \frac{\mathbf{A} \cdot \mathbf{B}}{|\mathbf{A}| |\mathbf{B}|}
+    ![Cosine Similarity](https://latex.codecogs.com/svg.image?\text{Cosine%20Similarity}%20=%20\frac{\mathbf{A}\cdot\mathbf{B}}{|\mathbf{A}||\mathbf{B}|})
     $$
 
     where $\mathbf{A} \cdot \mathbf{B}$ is the dot product and $|\mathbf{A}|$, $|\mathbf{B}|$ are the magnitudes of the vectors.
