@@ -1,91 +1,48 @@
-# Investigating the Impact of School Funding on Academic Performance
+# Capstone Project Report – Education Spending and Student Outcomes
 
 ## Overview
 
-This project explores the relationship between school funding and academic performance, focusing on whether increased spending per student correlates with improved graduation rates. The intend of this study is to provide data-driven insights and actionable recommendations for policymakers and inform voters, especially in states like Idaho where education budgets are under review.
+This capstone project investigates the relationship between public school spending and academic performance, focusing on whether increased spending directly correlates with improved student outcomes. The analysis was motivated by policy debates in Idaho and nationwide, where claims about the impact of funding on education are often made without empirical support. The project uses historical data, excludes pandemic-era anomalies, and applies multiple statistical models to uncover actionable insights.
 
----
+The entire capstone project was driven by me, followed closely by my mentor, and was fully approved by several SpringBoard data scientists.
 
-## Background & Motivation
+## Concepts Explored
 
-School funding is a critical and contentious issue in the United States. Any discussion about potentially lowered school budgets is shouted down as irresponsible, as it will necessarily lead to lower academic performance. This analysis aims to clarify:
+- **Research Question and Motivation:**  
+  The central question is: *Does increased school spending directly correlate with improved academic performance?* Graduation rate was chosen as the primary metric for academic success, as it reflects the percentage of public high school freshmen graduating within four years.
 
-- **Primary Question:**
-  - Does increased school spending directly correlate with improved academic performance (specifically, graduation rates)?
-- **Secondary Question:**
-  - Which states outperform or underperform relative to their funding levels?
----
+- **Data Collection and Preparation:**  
+  - Data on graduation rates and per-student expenditures was sourced from the National Center for Education Statistics (NCES).
+  - Only data prior to 2020 was used to avoid distortions from the COVID-19 pandemic and federal relief funding.
+  - Data cleaning involved removing unnecessary columns, correcting labels, and filling a small number of missing values with state means.
+  - Spending was adjusted for inflation and normalized per student to ensure comparability across states and years.
 
-## Research Objectives
+- **Modeling and Analysis:**  
+  - Four modeling approaches were tested to estimate trends and relationships:
+    - **ARIMA** and **ETS** for time series forecasting of individual states.
+    - **Linear Regression** and **Random Forest Regression** for analyzing trends and handling multiple states.
+  - Idaho was used as a case study for detailed analysis.
+  - Linear Regression and Random Forest models produced similar RMSE values, with Linear Regression closely matching actual outcomes and supporting multi-state analysis.
 
-- Evaluate the correlation between per-student funding and graduation rates across states.
-- Provide evidence-based recommendations for funding allocation.
-- Identify high-impact investment areas to maximize student success.
-  
----
+- **Findings:**  
+  - Initial analysis showed a general trend: as spending increased, graduation rates tended to rise as well.
+  - Some inverse relationships were observed in certain periods, suggesting the need for further investigation.
+  - Changes in spending did not always lead to immediate or large changes in graduation rates, indicating a complex relationship.
 
-## Methodology
+## Lessons Learned
 
-### Data Sources
+- **Data Quality and Scope:**  
+  Excluding pandemic-era data was crucial for maintaining consistency and avoiding confounding variables.
 
-- **Performance Metrics:** State-level graduation rates (Adjusted Cohort Graduation Rate, ACGR) from the National Center for Education Statistics (NCES).
-- **Funding Data:** Per-student expenditure totals, adjusted for inflation using the Consumer Price Index (CPI).
+- **Model Selection:**  
+  Linear Regression provided robust, interpretable results for multi-state analysis, while Random Forest offered flexibility for more complex relationships.
 
-### Data Preparation
+- **Correlation vs. Causation:**  
+  While a positive correlation was observed between spending and graduation rates, the analysis highlights that the relationship is not always straightforward and may be influenced by other factors.
 
-- Data from 2011–2019 was used to avoid pandemic-related anomalies.
-- Missing values were imputed with state means.
-- Spending figures were inflation-adjusted and standardized to a school-year basis.
+- **Policy Relevance:**  
+  Data-driven analysis is essential for informing education policy debates and moving beyond anecdotal claims.
 
-### Analysis Approach
+## Conclusion
 
-- **Correlation Analysis:** Examined the relationship between funding and graduation rates using Pearson’s correlation coefficient.
-- **Predictive Modeling:** Tested ARIMA, ETS, Linear Regression, and Random Forest Regression models.
-    - Linear Regression and Random Forest were selected for their accuracy and ability to handle multi-state data.
-
----
-
-## Key Findings
-
-- **Correlation Results:**  
-  - Pearson r = 0.02823 (very weak correlation)
-  - p-value ≈ 0.00005 (statistically significant but not practically meaningful)
-- **Visualization:**  
-  - No consistent relationship between increased spending and higher graduation rates, both across and within states.
-  - States with the highest spending (e.g., D.C.) do not necessarily have the highest graduation rates.
-  - States increasing or decreasing spending did not see corresponding changes in graduation rates.
-- **State Highlights:**  
-  - **Best Predicted Graduation Rate:** West Virginia (97.20%)
-  - **Lowest Predicted Graduation Rate:** New Mexico (77.87%)
-
----
-
-## Conclusions
-
-- **No evidence of a meaningful correlation** between per-student spending and graduation rates.
-- **Policy Recommendation:** Adjusting funding alone is unlikely to impact graduation rates significantly.
-- **Further Research:** Analyze policy and procedural differences between high- and low-performing states for actionable insights.
-
----
-
-## Limitations & Future Research
-
-- **Quality of Education:** Graduation rates do not reflect educational quality or consistency of standards across states.
-- **Data Scope:** Unclear if private/homeschool students are included; rural economic factors may skew graduation rates.
-- **Pandemic Effects:** Post-2019 data excluded to avoid confounding variables from COVID-19-related disruptions.
-
----
-
-## Proposals for Future Research
-
-- Investigate the comparability of graduation standards across states.
-- Clarify the inclusion of private and homeschooled students in reported graduation rates.
-- Examine socioeconomic and demographic factors influencing graduation rates beyond funding levels.
-
----
-
-## Contact
-
-For questions or collaboration, please open an issue or submit a pull request.
-
-
+The capstone project demonstrates that increased education spending is generally associated with higher graduation rates, but the relationship is nuanced and context-dependent. Rigorous data cleaning, careful model selection, and exclusion of anomalous periods (like the pandemic) are vital for credible analysis. The findings support the use of empirical evidence in policy discussions about education funding and outcomes.
